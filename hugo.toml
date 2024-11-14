@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://rafuaero.github.io/'
+languageCode = 'pt-BR'
 title = 'costacurta.me'
 theme = 'mini'
 
@@ -23,3 +23,10 @@ weight = 30
   [module.hugoVersion]
     extended = false
     min = "0.116.0"
+
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-287QNEHVGP'
+
+
