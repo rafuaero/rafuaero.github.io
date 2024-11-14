@@ -1,0 +1,92 @@
++++
+title = '2024 11 14_config_hugo'
+date = 2024-11-14T20:18:34-03:00
+draft = true
++++
+
+# configurando um site em Hugo
+
+Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos [hugo](https://gohugo.io/)  e hospeda-lo no github.
+
+Vamos ver como as coisas saem.
+
+Escolhi hospedar no github porque da ultima vez que eu tentei fazer algo parecido, com Jekyll, eu li que para hospedar o site no github , com domínio próprio, o site de deveria estar direcionado para a pagina principal do usuário, o USUARIO.github.io
+
+No pouco que li sobre o Hugo, não achei nada a respeito, mas vou testar primeiro nesse domínio para garantir o sucesso.
+
+## documentação
+ vou começar por aqui:
+ https://gohugo.io/getting-started/quick-start/
+
+### primeira seção
+1. eu clonei o diretório USUARIO.github.io para meu computador
+2. depois teste o comando Hugo new site USUARIO.github.io
+	1. deu erro, pois esse comando não aceita criar site sobre um diretório que já existe
+	2. a mensagem de erro deu a opção de --force, vou testar
+	3. deu certo, aparentemente
+3. dei aqueles -- `git add commit push` -- de sempre, sem nem saber se era pra fazer isso agora.
+4. A próxima etapa é definir o tema
+	1. são vários no site, e provavelmente qq um que se escolher vai deixar com cara de template. 
+		1. mas aprender a configurar um tema vai ficar para bem depois
+	2. De qualquer maneira, a página de [temas](https://themes.gohugo.io/) tem muita coisa legal e bonita, parabéns aos envolvidos
+	3. fiquei na duvida entre o tema [mini](https://themes.gohugo.io/themes/hugo-theme-cactus-plus/) e o [pickles](https://themes.gohugo.io/themes/hugo_theme_pickles/),  e [cactus](https://themes.gohugo.io/themes/hugo-theme-cactus/)minimalistas no talo. 
+	4. **Espero que seja fácil mudar de tema no futuro**
+	5. Acabei decidindo por um chamado [Hugo Wiston](https://themes.gohugo.io/themes/hugo-winston-theme/) kkk
+5. Testando as configurações
+	1. instalei o tema
+	2. criei o primeiro post
+	3. Mas no apareceu na página inicial :-/
+	4. vou ter que ler novamente sobre a instalaçao do tema
+
+### segunda seção
+1. eu não segui as instruções de instalação do tema, para variar, e achei que a parte que pedia para copiar o site de exemplo era opcional, mas logo descobri que não era.
+2. depois de copiado o site de exemplo, o post que eu havia criado apareceu.
+	1. Começando a entender o funcionamento da pasta `content/` , aparentemente cada tema exige que o conteúdo fique em pastas específicas, sendo que `blog/` é padrão para vários temas que segue esse padrão de blog.
+3. TODO: descobrir onde fica essas configurações no tema
+4. Agora vou começar a mudar o site de exemplo para o meu conteúdo, vou lá e volta já
+
+#### mudança de configuração
+1.   quando eu rodo o servidor local hugo recebo a seguinte mensagem: `.Site.IsServer was deprecated in Hugo v0.120.0 and will be removed in a future release. Use hugo.IsServer instead.`
+2. tenho que descobrir onde está essa config
+3. usei o comando `grep -r 'Server' *` para achar as configurações (esse `-r` , de recursivo, que busca em pastas e subpastas, salva a vida em vários comandos bash) 
+	1. estavam em themes/hugo-winston-theme/layouts/partials/google-analytics.html e hugo-winston-theme/layouts/partials/plausible-analytics.html
+	2. corrigi e deu certo
+
+### terceira seção
+1. hoje vou continuar alterando o site de exemplo para meu gosto
+2. As imagens ficam armazenadas na pasta `public/images`, pelo menos para esse tema
+	1. na pagina about: esta configurado da seguinte maneira:
+		1. `url: "/about/"`
+		2.  `image: images/about.jpg/
+3. apanhando para descobrir como mudar a foto do autor
+	1. achei um arquivo json, mas mudei a foto no pasta publica e nao foi, será que é outra pasta?
+	2. aparentemente eu estava colocando as fotos na pasta `public/images`, eu acho que tenho que colocar na pasta `static/images` 
+	3. ok, deu certo, estava colocando na pasta errada.
+4. por hoje deu
+
+
+### quarta seção
+1. decidi que não gostei do tema que escolhi, vou com outro
+2. mas antes quero colocar o site no ar logo :-)
+	1. vamos às pesquisas
+		1. vou seguir a [documentação oficial](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+		2. segui os passos da documentação
+		3. deu certo
+	2. meu site está no ar :-)
+		1. https://rafuaero.github.io/
+	3. tem que fazer muito ajuste ainda
+3. vou tentar mudar o tema, vamos ver o que acontece
+4. esqueci de dar um git pull e bagunçou tudo
+5. o disgrama
+6. mudei o tema e quebrou o hots no github, vou ter que ver isso depois
+7. tenho que terminar de configurar adequadamente o novo tema
+	1. não é tão simples como parece
+8. fim por hoje
+
+#### quinta seçao
+- comecei tudo de novo
+- apaguei o repositorio no github
+	- esqueci de salvar os post que já tinha feito
+- agora consegui deixar o site rodando.
+	- não vou mudar de tema tão cedo, prometo
+
