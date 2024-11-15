@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on costacurta.me</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on costacurta.me</description>
+    <title>Hugo on costacurta.me</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Thu, 14 Nov 2024 20:18:34 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>configurando o Hugo CMS</title>
       <link>http://localhost:1313/posts/2024-11-14_config_hugo/</link>
       <pubDate>Thu, 14 Nov 2024 20:18:34 -0300</pubDate>
       <guid>http://localhost:1313/posts/2024-11-14_config_hugo/</guid>
       <description>configurando um site em Hugo 🔗Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos hugo e hospedá-lo no github.&#xA;Vamos ver como as coisas saem.&#xA;Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedagem já integrada a um repositório.&#xA;Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?</description>
-    </item>
-    <item>
-      <title>Primeiro post</title>
-      <link>http://localhost:1313/posts/primeiro/</link>
-      <pubDate>Thu, 14 Nov 2024 19:44:47 -0300</pubDate>
-      <guid>http://localhost:1313/posts/primeiro/</guid>
-      <description>começando de novo por aqui 🔗primeiro post</description>
     </item>
   </channel>
 </rss>

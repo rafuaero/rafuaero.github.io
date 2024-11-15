@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <title>configurando o Hugo CMS | costacurta.me</title>
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
+<meta name="viewport" content="width=device-width,minimum-scale=1">
+<meta name="description" content="configurando um site em Hugo 🔗Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos hugo e hospedá-lo no github.
+Vamos ver como as coisas saem.
+Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedagem já integrada a um repositório.
+Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?">
+<meta name="generator" content="Hugo 0.126.2">
+
+
+  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+
+<link rel="stylesheet" href="/css/style.css">
+
+
+
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+
+
+
+
+
+
+
+
+  </head>
+
+  <body>
+    <nav class="navigation">
+	
+		<a href="/"> <span class="arrow">←</span>Home</a>
+	
+	<a href="/posts">Archive</a>
+	<a href="/tags">Tags</a>
+	<a href="/about">About</a>
+
+	
+
+	
+</nav>
+
+
+    <main class="main">
+      
+
+<section id="single">
+    <h1 class="title">configurando o Hugo CMS</h1>
+
+    <div class="tip">
+        <time datetime="2024-11-14 20:18:34 -0300 -03">Nov 14, 2024</time>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          832 words
+        </span>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          4 minute read
+        </span>
+    </div>
+
+    
+    
+
+
+    <div class="content">
+      <h1 id="configurando-um-site-em-hugo">configurando um site em Hugo <a href="#configurando-um-site-em-hugo" class="anchor">🔗</a></h1><p>Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos <a href="https://gohugo.io/" target="_blank" rel="noopener">hugo</a>  e hospedá-lo no github.</p>
+<p>Vamos ver como as coisas saem.</p>
+<p>Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedagem já integrada a um repositório.</p>
+<p>Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?</p>
+<h2 id="da-escolha-do-repositório">da escolha do repositório <a href="#da-escolha-do-reposit%c3%b3rio" class="anchor">🔗</a></h2><p>Da ultima vez que eu tentei fazer algo parecido, com Jekyll, eu li que para hospedar o site no github , com domínio próprio, o site de deveria estar direcionado para a pagina principal do usuário, o USUARIO.github.io</p>
+<p>No pouco que li sobre o Hugo, não achei nada a respeito, mas vou testar primeiro nesse domínio para garantir o sucesso.</p>
+<h3 id="update">update <a href="#update" class="anchor">🔗</a></h3><p>Parece que esse é um padrão para todo serviço hospedado no github.</p>
+<h2 id="documentação">documentação <a href="#documenta%c3%a7%c3%a3o" class="anchor">🔗</a></h2><p>vou começar por aqui:
+<a href="https://gohugo.io/getting-started/quick-start/" target="_blank" rel="noopener">https://gohugo.io/getting-started/quick-start/</a></p>
+<h3 id="primeiro-dia">primeiro dia <a href="#primeiro-dia" class="anchor">🔗</a></h3><ol>
+<li>eu clonei o diretório USUARIO.github.io para meu computador</li>
+<li>depois teste o comando Hugo new site USUARIO.github.io
+<ol>
+<li>deu erro, pois esse comando não aceita criar site sobre um diretório que já existe</li>
+<li>a mensagem de erro deu a opção de &ndash;force, vou testar</li>
+<li>deu certo, aparentemente</li>
+</ol>
+</li>
+<li>dei aqueles &ndash; <code>git add commit push</code> &ndash; de sempre, sem nem saber se era pra fazer isso agora.</li>
+<li>A próxima etapa é definir o tema
+<ol>
+<li>são vários no site, e provavelmente qualquer um que eu escolher vai deixar meu site com cara de template.
+<ol>
+<li>Mas aprender a configurar um tema vai ficar para bem depois</li>
+</ol>
+</li>
+<li>de qualquer maneira, a página de <a href="https://themes.gohugo.io/" target="_blank" rel="noopener">temas</a> tem muita coisa legal e bonita, parabéns aos envolvidos</li>
+<li>fiquei na duvida entre o tema <a href="https://themes.gohugo.io/themes/hugo-theme-cactus-plus/" target="_blank" rel="noopener">mini</a> e o <a href="https://themes.gohugo.io/themes/hugo_theme_pickles/" target="_blank" rel="noopener">pickles</a>,  e <a href="https://themes.gohugo.io/themes/hugo-theme-cactus/" target="_blank" rel="noopener">cactus</a>minimalistas no talo.</li>
+<li><strong>Espero que seja fácil mudar de tema no futuro</strong></li>
+<li>Acabei decidindo por um chamado <a href="https://themes.gohugo.io/themes/hugo-winston-theme/" target="_blank" rel="noopener">Hugo Wiston</a></li>
+</ol>
+</li>
+<li>Testando as configurações
+<ol>
+<li>instalei o tema</li>
+<li>criei o primeiro post</li>
+<li>Mas no apareceu na página inicial :-/</li>
+<li>vou ter que ler novamente sobre a instalação do tema</li>
+</ol>
+</li>
+</ol>
+<h3 id="segundo-dia">segundo dia <a href="#segundo-dia" class="anchor">🔗</a></h3><ol>
+<li>eu não segui as instruções de instalação do tema, para variar, e achei que a parte que pedia para copiar o site de exemplo era opcional, mas logo descobri que não era.</li>
+<li>depois de copiado o site de exemplo, o post que eu havia criado apareceu.
+<ol>
+<li>Começando a entender o funcionamento da pasta <code>content/</code> , aparentemente cada tema exige que o conteúdo fique em pastas específicas, sendo que <code>blog/</code> é padrão para vários temas que segue esse padrão de blog.</li>
+</ol>
+</li>
+<li>TODO: descobrir onde fica essas configurações no tema</li>
+<li>Agora vou começar a mudar o site de exemplo para o meu conteúdo, vou lá e volta já</li>
+</ol>
+<h4 id="mudança-de-configuração">mudança de configuração <a href="#mudan%c3%a7a-de-configura%c3%a7%c3%a3o" class="anchor">🔗</a></h4><ol>
+<li>quando eu rodo o servidor local hugo recebo a seguinte mensagem: <code>.Site.IsServer was deprecated in Hugo v0.120.0 and will be removed in a future release. Use hugo.IsServer instead.</code></li>
+<li>tenho que descobrir onde está essa config</li>
+<li>usei o comando <code>grep -r 'Server' *</code> para achar as configurações (esse <code>-r</code> , de recursivo, que busca em pastas e subpastas, salva a vida em vários comandos bash)
+<ol>
+<li>estavam em themes/hugo-winston-theme/layouts/partials/google-analytics.html e hugo-winston-theme/layouts/partials/plausible-analytics.html</li>
+<li>corrigi e deu certo</li>
+</ol>
+</li>
+</ol>
+<h3 id="terceiro-dia">terceiro dia <a href="#terceiro-dia" class="anchor">🔗</a></h3><ol>
+<li>hoje vou continuar alterando o site de exemplo para meu gosto</li>
+<li>As imagens ficam armazenadas na pasta <code>public/images</code>, pelo menos para esse tema
+<ol>
+<li>na pagina about: está configurado da seguinte maneira:
+<ol>
+<li><code>url: &quot;/about/&quot;</code></li>
+<li>`image: images/about.jpg/</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>apanhando para descobrir como mudar a foto do autor
+<ol>
+<li>achei um arquivo json, mas mudei a foto no pasta publica e nao foi, será que é outra pasta?</li>
+<li>aparentemente eu estava colocando as fotos na pasta <code>public/images</code>, eu acho que tenho que colocar na pasta <code>static/images</code></li>
+<li>ok, deu certo, estava colocando na pasta errada.</li>
+</ol>
+</li>
+<li>por hoje deu</li>
+</ol>
+<h3 id="quarto-dia">quarto dia <a href="#quarto-dia" class="anchor">🔗</a></h3><ol>
+<li>decidi que não gostei do tema que escolhi, vou com outro</li>
+<li>mas antes quero colocar o site no ar logo :-)
+<ol>
+<li>vamos às pesquisas
+<ol>
+<li>vou seguir a <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/" target="_blank" rel="noopener">documentação oficial</a></li>
+<li>segui os passos da documentação</li>
+<li>deu certo</li>
+</ol>
+</li>
+<li>meu site está no ar :-)
+<ol>
+<li><a href="https://rafuaero.github.io" target="_blank" rel="noopener">https://rafuaero.github.io/</a>/</li>
+</ol>
+</li>
+<li>tem que fazer muito ajuste ainda</li>
+</ol>
+</li>
+</ol>
+<p>depois de começar a configurar o tema, <a href="https://themes.gohugo.io/themes/hugo-winston-theme/" target="_blank" rel="noopener">Hugo Wiston</a>, percebi que não gostei dele, muito modernoso, não consegui achar fotos legais para colocar no lugar, e resolvi mudar para o tema &ldquo;mini&rdquo;.</p>
+<ol>
+<li>Mudei o tema localmente, só que esqueci de dar um git pull antes de fazer essas mudanças todas, pois quando se configura a hospedagem Hugo no github cria-se um arquivo de configuração no servidor, agora deu conflito nos commits</li>
+<li>oh disgrama</li>
+<li>mudei o tema e quebrou o host no github, vou ter que ver isso depois</li>
+<li>tenho que terminar de configurar adequadamente o novo tema
+<ol>
+<li>não é tão simples como parece</li>
+</ol>
+</li>
+<li>fim por hoje</li>
+</ol>
+<h4 id="quinto-dia">quinto dia <a href="#quinto-dia" class="anchor">🔗</a></h4><ol>
+<li>comecei tudo de novo</li>
+<li>apaguei o repositorio no github</li>
+<li>tive que refazer todos os procedimentos novamente de criar o repositório, configurar localmente o site e depois configurar no github
+<ol>
+<li>não vou mudar de tema tão cedo, prometo</li>
+</ol>
+</li>
+</ol>
+<p>e é isso por enquanto. Não vou mexer e nada muito complexo por agora, a idéia é começar a escrever logo.</p>
+
+    </div>
+
+    
+        <div class="tags">
+            
+                <a href="http://localhost:1313/tags/hugo">hugo</a>
+            
+        </div>
+    
+    
+    
+
+</section>
+
+
+    </main>
+    
+    <footer id="footer">
+    
+
+    <div class="copyright">
+    
+       © Copyright 
+       2024 
+       <span class="split">
+        <svg fill="#bbbbbb" width="15" height="15" version="1.1" id="heart-15" xmlns="http://www.w3.org/2000/svg" width="15px" height="15px" viewBox="0 0 15 15">
+  <path d="M13.91,6.75c-1.17,2.25-4.3,5.31-6.07,6.94c-0.1903,0.1718-0.4797,0.1718-0.67,0C5.39,12.06,2.26,9,1.09,6.75&#xA;&#x9;C-1.48,1.8,5-1.5,7.5,3.45C10-1.5,16.48,1.8,13.91,6.75z"/>
+</svg>
+       </span>
+       
+    
+    </div>
+
+    
+      <div class="powerby">
+        Powered by <a href='http://www.gohugo.io/'>Hugo</a> Theme By <a href='https://github.com/nodejh/hugo-theme-mini'>nodejh</a>
+      </div>
+    
+</footer>
+
+
+
+  </body>
+</html>

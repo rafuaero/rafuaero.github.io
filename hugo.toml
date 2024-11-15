@@ -3,21 +3,37 @@ languageCode = 'pt-BR'
 title = 'costacurta.me'
 theme = 'mini'
 
+[params]
+	subtitle = 'aventuras em hugo'
 
-[[menus.main]]
-name = 'Home'
-pageRef = '/'
-weight = 10
+[taxonomies]
+  category = 'categorias'
+  tag = 'tags'
 
-[[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
-weight = 20
 
-[[menus.main]]
-name = 'Tags'
-pageRef = '/tags'
-weight = 30
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 20
+
+  [[menus.main]]
+    name = 'tags'
+    pageRef = '/tags'
+    weight = 30
+
+  [[menus.main]]
+    name = 'categorias'
+    pageRef = '/categorias'
+    weight = 40
+
+# essa config é para merge as configurações aqui e do tema
+  _merge = 'shallow'
 
 [module]
   [module.hugoVersion]

@@ -2,6 +2,8 @@
 title = 'configurando o Hugo CMS'
 date = 2024-11-14T20:18:34-03:00
 draft = false
+tags = ['hugo']
+categorias = ['tech nerd']
 +++
 
 # configurando um site em Hugo
