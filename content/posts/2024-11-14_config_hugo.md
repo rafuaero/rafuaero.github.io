@@ -84,13 +84,15 @@ Parece que esse é um padrão para todo serviço hospedado no github.
 	2. meu site está no ar :-)
 		1. [https://rafuaero.github.io/](https://rafuaero.github.io)/
 	3. tem que fazer muito ajuste ainda
-3. vou tentar mudar o tema, vamos ver o que acontece
-4. esqueci de dar um git pull antes de fazer essas mudanças todas, pois quando se configura a hospedagem Hugo no github cria-se um arquivo de configuração no servidor, agora deu conflito nos commits
-5. oh disgrama
-6. mudei o tema e quebrou o host no github, vou ter que ver isso depois
-7. tenho que terminar de configurar adequadamente o novo tema
+
+depois de começar a configurar o tema, [Hugo Wiston](https://themes.gohugo.io/themes/hugo-winston-theme/), percebi que não gostei dela, muito modernoso, não consegui achar fotos legias para coloca rno lugar, e resolvi mudar para o teme "mini". 
+
+1.  Mudei o tema localmente, só que esqueci de dar um git pull antes de fazer essas mudanças todas, pois quando se configura a hospedagem Hugo no github cria-se um arquivo de configuração no servidor, agora deu conflito nos commits
+2. oh disgrama
+3. mudei o tema e quebrou o host no github, vou ter que ver isso depois
+4. tenho que terminar de configurar adequadamente o novo tema
 	1. não é tão simples como parece
-8. fim por hoje
+5. fim por hoje
 
 #### quinto dia
 1.  comecei tudo de novo
