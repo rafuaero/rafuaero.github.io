@@ -85,7 +85,7 @@ Parece que esse é um padrão para todo serviço hospedado no github.
 		1. [https://rafuaero.github.io/](https://rafuaero.github.io)/
 	3. tem que fazer muito ajuste ainda
 
-depois de começar a configurar o tema, [Hugo Wiston](https://themes.gohugo.io/themes/hugo-winston-theme/), percebi que não gostei dela, muito modernoso, não consegui achar fotos legias para coloca rno lugar, e resolvi mudar para o teme "mini". 
+depois de começar a configurar o tema, [Hugo Wiston](https://themes.gohugo.io/themes/hugo-winston-theme/), percebi que não gostei dele, muito modernoso, não consegui achar fotos legais para colocar no lugar, e resolvi mudar para o tema "mini". 
 
 1.  Mudei o tema localmente, só que esqueci de dar um git pull antes de fazer essas mudanças todas, pois quando se configura a hospedagem Hugo no github cria-se um arquivo de configuração no servidor, agora deu conflito nos commits
 2. oh disgrama
