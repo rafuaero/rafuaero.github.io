@@ -7,7 +7,7 @@ theme = 'mini'
 	subtitle = 'aventuras em hugo'
 
 [taxonomies]
-  category = 'categorias'
+  category = "categorias"
   tag = 'tags'
 
 
