@@ -1,7 +1,7 @@
 +++
 title = '2024 11 14_config_hugo'
 date = 2024-11-14T20:18:34-03:00
-draft = true
+draft = false
 +++
 
 # configurando um site em Hugo
