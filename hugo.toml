@@ -10,27 +10,8 @@ theme = 'mini'
   category = "categories"
   tag = 'tags'
 
+sectionPagesMenu = 'main'
 
-[menus]
-  [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-
-  [[menus.main]]
-    name = 'Posts'
-    pageRef = '/posts'
-    weight = 20
-
-  [[menus.main]]
-    name = 'tags'
-    pageRef = '/tags'
-    weight = 30
-
-  [[menus.main]]
-    name = 'categories'
-    pageRef = '/categories'
-    weight = 40
 
 # essa config é para merge as configurações aqui e do tema
   _merge = 'shallow'
