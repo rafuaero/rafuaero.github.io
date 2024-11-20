@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categorias on costacurta.me</title>
-    <link>https://rafuaero.github.io/categorias/</link>
+    <link>http://localhost:1313/categorias/</link>
     <description>Recent content in Categorias on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Thu, 14 Nov 2024 20:18:34 -0300</lastBuildDate>
-    <atom:link href="https://rafuaero.github.io/categorias/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categorias/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech Nerd</title>
-      <link>https://rafuaero.github.io/categorias/tech-nerd/</link>
+      <link>http://localhost:1313/categorias/tech-nerd/</link>
       <pubDate>Thu, 14 Nov 2024 20:18:34 -0300</pubDate>
-      <guid>https://rafuaero.github.io/categorias/tech-nerd/</guid>
+      <guid>http://localhost:1313/categorias/tech-nerd/</guid>
       <description></description>
     </item>
     <item>
       <title>Site</title>
-      <link>https://rafuaero.github.io/categorias/site/</link>
+      <link>http://localhost:1313/categorias/site/</link>
       <pubDate>Thu, 14 Nov 2024 19:44:47 -0300</pubDate>
-      <guid>https://rafuaero.github.io/categorias/site/</guid>
+      <guid>http://localhost:1313/categorias/site/</guid>
       <description></description>
     </item>
   </channel>

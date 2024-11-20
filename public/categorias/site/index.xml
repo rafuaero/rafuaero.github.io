@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Site on costacurta.me</title>
-    <link>https://rafuaero.github.io/categorias/site/</link>
+    <link>http://localhost:1313/categorias/site/</link>
     <description>Recent content in Site on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Thu, 14 Nov 2024 19:44:47 -0300</lastBuildDate>
-    <atom:link href="https://rafuaero.github.io/categorias/site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categorias/site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primeiro post</title>
-      <link>https://rafuaero.github.io/posts/primeiro/</link>
+      <link>http://localhost:1313/posts/primeiro/</link>
       <pubDate>Thu, 14 Nov 2024 19:44:47 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/primeiro/</guid>
+      <guid>http://localhost:1313/posts/primeiro/</guid>
       <description>&lt;h2 id=&#34;começando-de-novo-por-aqui&#34;&gt;começando de novo por aqui &lt;a href=&#34;#come%c3%a7ando-de-novo-por-aqui&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;primeiro post&lt;/p&gt;</description>
     </item>
   </channel>

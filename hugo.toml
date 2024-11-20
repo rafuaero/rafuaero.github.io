@@ -7,7 +7,7 @@ theme = 'mini'
 	subtitle = 'aventuras em hugo'
 
 [taxonomies]
-  category = "categorias"
+  category = "categories"
   tag = 'tags'
 
 
@@ -28,8 +28,8 @@ theme = 'mini'
     weight = 30
 
   [[menus.main]]
-    name = 'categorias'
-    pageRef = '/categorias'
+    name = 'categories'
+    pageRef = '/categories'
     weight = 40
 
 # essa config é para merge as configurações aqui e do tema
