@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux on costacurta.me</title>
-    <link>https://rafuaero.github.io/tags/linux/</link>
-    <description>Recent content in Linux on costacurta.me</description>
+    <title>Teches on costacurta.me</title>
+    <link>https://rafuaero.github.io/tech/</link>
+    <description>Recent content in Teches on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 24 Nov 2024 10:27:29 -0300</lastBuildDate>
-    <atom:link href="https://rafuaero.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rafuaero.github.io/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>permissões SQL</title>
       <link>https://rafuaero.github.io/tech/2024-11-24_permisoes_sql/</link>
       <pubDate>Sun, 24 Nov 2024 10:27:29 -0300</pubDate>
       <guid>https://rafuaero.github.io/tech/2024-11-24_permisoes_sql/</guid>
       <description>Permissões SQL Postgres 🔗Passando aqui para deixar registrado uma dica rápida.&#xA;Uma das coisas que estava me desanimando a aprender POSTGRESQL era a dificuldade com:&#xA;acessar o banco de dados em primeiro lugar, usando o pgadmin consegui copiar qualquer arquivo para o banco de dados O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.</description>
-    </item>
-    <item>
-      <title>Apps que eu uso no Linux</title>
-      <link>https://rafuaero.github.io/posts/linux_apps/</link>
-      <pubDate>Wed, 20 Nov 2024 15:38:52 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/linux_apps/</guid>
-      <description>alacritty terminal emulator. Muito bom. Comecei a usá-lo depois que não consegui configurar o combo NVIM + Lazy vim no terminal do Mac OS. Sentir necessidade de mudar o terminal padrão do sistema operacional é começo da separação entre adultos e crianças. vim não uso por ser mais produtivo, uso por ser mais divertido (alguns dirão que é masoquismo). fzf excelete para achar aqueles arquivos/pastas perdidos no computador zoxide cd with steroids Comecei com esses, vou atualizando com o tempo</description>
     </item>
   </channel>
 </rss>

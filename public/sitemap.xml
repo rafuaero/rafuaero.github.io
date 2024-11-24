@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rafuaero.github.io/tags/linux/</loc>
+    <lastmod>2024-11-24T10:27:29-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tech/2024-11-24_permisoes_sql/</loc>
+    <lastmod>2024-11-24T10:27:29-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/sql/</loc>
+    <lastmod>2024-11-24T10:27:29-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/</loc>
+    <lastmod>2024-11-24T10:27:29-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tech/</loc>
+    <lastmod>2024-11-24T10:27:29-03:00</lastmod>
+  </url><url>
     <loc>https://rafuaero.github.io/tags/blog/</loc>
     <lastmod>2024-11-20T15:57:56-03:00</lastmod>
   </url><url>
@@ -14,9 +29,6 @@
     <loc>https://rafuaero.github.io/tags/listas/</loc>
     <lastmod>2024-11-20T15:57:56-03:00</lastmod>
   </url><url>
-    <loc>https://rafuaero.github.io/tags/</loc>
-    <lastmod>2024-11-20T15:57:56-03:00</lastmod>
-  </url><url>
     <loc>https://rafuaero.github.io/listas/</loc>
     <lastmod>2024-11-20T15:57:45-03:00</lastmod>
   </url><url>
@@ -24,9 +36,6 @@
     <lastmod>2024-11-20T15:38:52-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/posts/linux_apps/</loc>
-    <lastmod>2024-11-20T15:38:52-03:00</lastmod>
-  </url><url>
-    <loc>https://rafuaero.github.io/tags/linux/</loc>
     <lastmod>2024-11-20T15:38:52-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/posts/</loc>
