@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apps on costacurta.me</title>
-    <link>http://localhost:1313/tags/apps/</link>
+    <link>https://rafuaero.github.io/tags/apps/</link>
     <description>Recent content in Apps on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Wed, 20 Nov 2024 15:38:52 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rafuaero.github.io/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apps que eu uso no Linux</title>
-      <link>http://localhost:1313/posts/linux_apps/</link>
+      <link>https://rafuaero.github.io/posts/linux_apps/</link>
       <pubDate>Wed, 20 Nov 2024 15:38:52 -0300</pubDate>
-      <guid>http://localhost:1313/posts/linux_apps/</guid>
+      <guid>https://rafuaero.github.io/posts/linux_apps/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://alacritty.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;alacritty&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;terminal emulator. Muito bom. Comecei a usá-lo depois que não consegui configurar o combo NVIM + Lazy vim no terminal do Mac OS.&lt;/li&gt;&#xA;&lt;li&gt;Sentir necessidade de mudar o terminal padrão do sistema operacional é começo da separação entre adultos e crianças.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vim&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;não uso por ser mais produtivo, uso por ser mais divertido (alguns dirão que é masoquismo).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/junegunn/fzf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fzf&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;excelete para achar aqueles arquivos/pastas perdidos no computador&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/ajeetdsouza/zoxide&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zoxide&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;cd with steroids&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Comecei com esses, vou atualizando com o tempo&lt;/p&gt;</description>
     </item>
   </channel>

@@ -16,3 +16,5 @@ tags = ["linux","apps","produtividade"]
 	- cd with steroids
 
 Comecei com esses, vou atualizando com o tempo
+
+

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Listas on costacurta.me</title>
-    <link>http://localhost:1313/tags/listas/</link>
+    <link>https://rafuaero.github.io/tags/listas/</link>
     <description>Recent content in Listas on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Wed, 20 Nov 2024 15:57:56 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/listas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rafuaero.github.io/tags/listas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogroll</title>
-      <link>http://localhost:1313/listas/blogroll/</link>
+      <link>https://rafuaero.github.io/listas/blogroll/</link>
       <pubDate>Wed, 20 Nov 2024 15:57:56 -0300</pubDate>
-      <guid>http://localhost:1313/listas/blogroll/</guid>
+      <guid>https://rafuaero.github.io/listas/blogroll/</guid>
       <description>&lt;h1 id=&#34;hugo-stuff&#34;&gt;Hugo stuff &lt;a href=&#34;#hugo-stuff&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;&lt;h2 id=&#34;blogging-with-hugo&#34;&gt;Blogging with Hugo &lt;a href=&#34;#blogging-with-hugo&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://digitaldrummerj.me/series/blogging-with-hugo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://digitaldrummerj.me/series/blogging-with-hugo/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;dicas-de-menu-em-hugo&#34;&gt;dicas de menu em Hugo &lt;a href=&#34;#dicas-de-menu-em-hugo&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://harrycresswell.com/writing/menus-in-hugo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://harrycresswell.com/writing/menus-in-hugo/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -20,3 +20,5 @@ a situação 2. eu protelei mais para resolver e fui me virando salvando os arqu
 
 Tentei usar a pasta /tmp para esse fim, mas recebia um erro toda hora de um serviço chamado [SElinux](https://www.redhat.com/pt-br/topics/linux/what-is-selinux). Hoje, resolvi tentar novamente e achei em algum lugar que sugeria simplesmente desabilitar esse serviço SElinux, que eu nem sabia que era um serviço opcional. Enfim, desabilitei editando o arquivo de config que estava /etc/selinux/config e agora as coisas parecem mais suaves. O primeiro teste eu ainda fiz com um arquivo criado pelo usuário postgres, no próximo vou tentar com meu usuário padrão, vamos ver se vai.
  
+
+

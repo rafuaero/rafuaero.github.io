@@ -1,7 +1,6 @@
 +++
 title = 'configurando o Hugo CMS'
 date = 2024-11-14T20:18:34-03:00
-draft = false
 tags = ['hugo']
 categorias = ['tech nerd']
 +++
@@ -103,3 +102,5 @@ depois de começar a configurar o tema, [Hugo Wiston](https://themes.gohugo.io/t
     1.  não vou mudar de tema tão cedo, prometo
 
 e é isso por enquanto. Não vou mexer e nada muito complexo por agora, a idéia é começar a escrever logo.
+
+
