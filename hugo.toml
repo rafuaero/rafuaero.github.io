@@ -12,24 +12,26 @@ theme = 'archie'
   weight = 1
 
   [[menu.main]]
-  name = "All posts"
+  name = "posts"
   url = "/posts"
   weight = 2
 
-  [[menu.main]]
-  name = "About"
-  url = "/about"
+[[menu.main]]
+  name = "outros"
+  url = "/outros"
   weight = 3
 
-  [[menu.main]]
+[[menu.main]]
   name = "Tags"
   url = "/tags"
   weight = 4
 
+  [[menu.main]]
+  name = "sobre"
+  url = "/about"
+  weight = 5
 
-[taxonomies]
-  category = "categories"
-  tag = 'tags'
+  
 
 # sectionPagesMenu = 'main'
 

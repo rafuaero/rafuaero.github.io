@@ -1,5 +1,5 @@
 +++
-title = 'permissões SQL'
+title = 'Tech nerd: permissões SQL'
 date = 2024-11-24T10:27:29-03:00
 tags = ['sql', 'linux']
 +++

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teste on costacurta.me</title>
+    <link>http://localhost:1313/tags/teste/</link>
+    <description>Recent content in Teste on costacurta.me</description>
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Mon, 25 Nov 2024 15:07:51 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/teste/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testando novo tema</title>
+      <link>http://localhost:1313/posts/testandonovotema/</link>
+      <pubDate>Mon, 25 Nov 2024 15:07:51 -0300</pubDate>
+      <guid>http://localhost:1313/posts/testandonovotema/</guid>
+      <description>&lt;h2 id=&#34;teste-teste-teste&#34;&gt;teste teste teste&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on costacurta.me</title>
-    <link>https://rafuaero.github.io/tags/hugo/</link>
+    <link>http://localhost:1313/tags/hugo/</link>
     <description>Recent content in Hugo on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Wed, 20 Nov 2024 15:57:56 -0300</lastBuildDate>
-    <atom:link href="https://rafuaero.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blogroll</title>
-      <link>https://rafuaero.github.io/listas/blogroll/</link>
+      <title>Listas - Blogroll</title>
+      <link>http://localhost:1313/outros/blogroll/</link>
       <pubDate>Wed, 20 Nov 2024 15:57:56 -0300</pubDate>
-      <guid>https://rafuaero.github.io/listas/blogroll/</guid>
-      <description>&lt;h1 id=&#34;hugo-stuff&#34;&gt;Hugo stuff &lt;a href=&#34;#hugo-stuff&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;&lt;h2 id=&#34;blogging-with-hugo&#34;&gt;Blogging with Hugo &lt;a href=&#34;#blogging-with-hugo&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://digitaldrummerj.me/series/blogging-with-hugo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://digitaldrummerj.me/series/blogging-with-hugo/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;dicas-de-menu-em-hugo&#34;&gt;dicas de menu em Hugo &lt;a href=&#34;#dicas-de-menu-em-hugo&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://harrycresswell.com/writing/menus-in-hugo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://harrycresswell.com/writing/menus-in-hugo/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/outros/blogroll/</guid>
+      <description>&lt;h1 id=&#34;hugo-stuff&#34;&gt;Hugo stuff&lt;/h1&gt;&#xA;&lt;h2 id=&#34;blogging-with-hugo&#34;&gt;Blogging with Hugo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://digitaldrummerj.me/series/blogging-with-hugo/&#34;&gt;https://digitaldrummerj.me/series/blogging-with-hugo/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;dicas-de-menu-em-hugo&#34;&gt;dicas de menu em Hugo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://harrycresswell.com/writing/menus-in-hugo/&#34;&gt;https://harrycresswell.com/writing/menus-in-hugo/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>configurando o Hugo CMS</title>
-      <link>https://rafuaero.github.io/posts/2024-11-14_config_hugo/</link>
+      <link>http://localhost:1313/posts/2024-11-14_config_hugo/</link>
       <pubDate>Thu, 14 Nov 2024 20:18:34 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2024-11-14_config_hugo/</guid>
-      <description>&lt;h1 id=&#34;configurando-um-site-em-hugo&#34;&gt;configurando um site em Hugo &lt;a href=&#34;#configurando-um-site-em-hugo&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hugo&lt;/a&gt;  e hospedá-lo no github.&lt;/p&gt;&#xA;&lt;p&gt;Vamos ver como as coisas saem.&lt;/p&gt;&#xA;&lt;p&gt;Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedagem já integrada a um repositório.&lt;/p&gt;&#xA;&lt;p&gt;Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2024-11-14_config_hugo/</guid>
+      <description>&lt;h1 id=&#34;configurando-um-site-em-hugo&#34;&gt;configurando um site em Hugo&lt;/h1&gt;&#xA;&lt;p&gt;Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt;  e hospedá-lo no github.&lt;/p&gt;&#xA;&lt;p&gt;Vamos ver como as coisas saem.&lt;/p&gt;&#xA;&lt;p&gt;Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedagem já integrada a um repositório.&lt;/p&gt;&#xA;&lt;p&gt;Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Primeiro post</title>
-      <link>https://rafuaero.github.io/posts/primeiro/</link>
+      <link>http://localhost:1313/posts/primeiro/</link>
       <pubDate>Thu, 14 Nov 2024 19:44:47 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/primeiro/</guid>
-      <description>&lt;h2 id=&#34;começando-de-novo-por-aqui&#34;&gt;começando de novo por aqui &lt;a href=&#34;#come%c3%a7ando-de-novo-por-aqui&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;primeiro post&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/primeiro/</guid>
+      <description>&lt;h2 id=&#34;começando-de-novo-por-aqui&#34;&gt;começando de novo por aqui&lt;/h2&gt;&#xA;&lt;p&gt;primeiro post&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,152 +1,119 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-    <title>permissões SQL | costacurta.me</title>
-
-    <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
-<meta name="viewport" content="width=device-width,minimum-scale=1">
-<meta name="description" content="Permissões SQL Postgres 🔗Passando aqui para deixar registrado uma dica rápida.
+<html><head lang="en"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>permissões SQL - costacurta.me</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Permissões SQL Postgres
+Passando aqui para deixar registrado uma dica rápida.
 Uma das coisas que estava me desanimando a aprender POSTGRESQL era a dificuldade com:
 
 acessar o banco de dados em primeiro lugar, usando o pgadmin
 conseguir copiar qualquer arquivo para o banco de dados
 
-O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.">
-<meta name="generator" content="Hugo 0.138.0">
+O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões." />
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content="http://localhost:1313/tech/2024-11-24_permisoes_sql/">
+  <meta property="og:site_name" content="costacurta.me">
+  <meta property="og:title" content="permissões SQL">
+  <meta property="og:description" content="Permissões SQL Postgres Passando aqui para deixar registrado uma dica rápida.
+Uma das coisas que estava me desanimando a aprender POSTGRESQL era a dificuldade com:
+acessar o banco de dados em primeiro lugar, usando o pgadmin conseguir copiar qualquer arquivo para o banco de dados O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="tech">
+    <meta property="article:published_time" content="2024-11-24T10:27:29-03:00">
+    <meta property="article:modified_time" content="2024-11-24T10:27:29-03:00">
+    <meta property="article:tag" content="Sql">
+    <meta property="article:tag" content="Linux">
 
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="permissões SQL">
+  <meta name="twitter:description" content="Permissões SQL Postgres Passando aqui para deixar registrado uma dica rápida.
+Uma das coisas que estava me desanimando a aprender POSTGRESQL era a dificuldade com:
+acessar o banco de dados em primeiro lugar, usando o pgadmin conseguir copiar qualquer arquivo para o banco de dados O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.">
 
-  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-
-
-<link rel="stylesheet" href="/css/style.css">
-
-
-
-<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
-
-
-
-
-
-
-
-
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-287QNEHVGP"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-287QNEHVGP');
-        }
-      </script>
-
-
-
-  </head>
-
-  <body>
-    <nav class="navigation">
 	
-		<a href="/"> <span class="arrow">←</span></a>
-	
-	<a href="/posts"></a>
-	<a href="/tags"></a>
-	<a href="/about"></a>
-
+        <link href="http://localhost:1313/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
 	
 
 	
-</nav>
+	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/css/main.5cebd7d4fb2b97856af8d32a6def16164fcf7d844e98e236fcb3559655020373.css" />
 
+	
+	
 
-    <main class="main">
-      
+	
+	
 
-<section id="single">
-    <h1 class="title">permissões SQL</h1>
+	
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="http://localhost:1313/">costacurta.me</a>
+	</div>
+	<nav>
+		
+		<a href="/">Home</a>
+		
+		<a href="/posts">posts</a>
+		
+		<a href="/about">sobre</a>
+		
+		<a href="/tags">Tags</a>
+		
+		
+	</nav>
+</header>
 
-    <div class="tip">
-        <time datetime="2024-11-24 10:27:29 -0300 -03"></time>
-        <span class="split">
-          ·
-        </span>
-        <span>
-          
-        </span>
-        <span class="split">
-          ·
-        </span>
-        <span>
-          
-        </span>
-    </div>
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">permissões SQL</h1>
+			<div class="meta">Posted on Nov 24, 2024</div>
+		</div>
+		
 
-    
-    
+		
 
-
-    <div class="content">
-      <h2 id="permissões-sql-postgres">Permissões SQL Postgres <a href="#permiss%c3%b5es-sql-postgres" class="anchor">🔗</a></h2><p>Passando aqui para deixar registrado uma dica rápida.</p>
-<p>Uma das coisas que estava me desanimando a aprender <a href="https://www.postgresql.org/" target="_blank" rel="noopener">POSTGRESQL</a> era a dificuldade com:</p>
+		<section class="body">
+			<h2 id="permissões-sql-postgres">Permissões SQL Postgres</h2>
+<p>Passando aqui para deixar registrado uma dica rápida.</p>
+<p>Uma das coisas que estava me desanimando a aprender <a href="https://www.postgresql.org/">POSTGRESQL</a> era a dificuldade com:</p>
 <ol>
-<li>acessar o banco de dados em primeiro lugar, usando o <a href="https://www.pgadmin.org/" target="_blank" rel="noopener">pgadmin</a></li>
+<li>acessar o banco de dados em primeiro lugar, usando o <a href="https://www.pgadmin.org/">pgadmin</a></li>
 <li>conseguir copiar qualquer arquivo para o banco de dados</li>
 </ol>
 <p>O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.</p>
 <p>a situação número 1. eu consegui resolver editando o arquivo /var/lib/pgsql/data/pg_hba.conf e trocando o  método de autenticação de <code>ident</code>  para <code>password</code> nas 3 primeiras conexões locais.</p>
 <p>a situação 2. eu protelei mais para resolver e fui me virando salvando os arquivos na pasta /var/lib/pgsql/ que claramente não era o ideal.</p>
-<p>Tentei usar a pasta /tmp para esse fim, mas recebia um erro toda hora de um serviço chamado <a href="https://www.redhat.com/pt-br/topics/linux/what-is-selinux" target="_blank" rel="noopener">SElinux</a>. Hoje, resolvi tentar novamente e achei em algum lugar que sugeria simplesmente desabilitar esse serviço SElinux, que eu nem sabia que era um serviço opcional. Enfim, desabilitei editando o arquivo de config que estava /etc/selinux/config e agora as coisas parecem mais suaves. O primeiro teste eu ainda fiz com um arquivo criado pelo usuário postgres, no próximo vou tentar com meu usuário padrão, vamos ver se vai.</p>
+<p>Tentei usar a pasta /tmp para esse fim, mas recebia um erro toda hora de um serviço chamado <a href="https://www.redhat.com/pt-br/topics/linux/what-is-selinux">SElinux</a>. Hoje, resolvi tentar novamente e achei em algum lugar que sugeria simplesmente desabilitar esse serviço SElinux, que eu nem sabia que era um serviço opcional. Enfim, desabilitei editando o arquivo de config que estava /etc/selinux/config e agora as coisas parecem mais suaves. O primeiro teste eu ainda fiz com um arquivo criado pelo usuário postgres, no próximo vou tentar com meu usuário padrão, vamos ver se vai.</p>
 
-    </div>
+		</section>
 
-    
-        <div class="tags">
-            
-                <a href="https://rafuaero.github.io/tags/sql">sql</a>
-            
-                <a href="https://rafuaero.github.io/tags/linux">linux</a>
-            
-        </div>
-    
-    
-    
-
-</section>
-
-
-    </main>
-    
-    <footer id="footer">
-    
-
-    <div class="copyright">
-    
-       © Copyright 
-       2024 
-       <span class="split">
-        <svg fill="#bbbbbb" width="15" height="15" version="1.1" id="heart-15" xmlns="http://www.w3.org/2000/svg" width="15px" height="15px" viewBox="0 0 15 15">
-  <path d="M13.91,6.75c-1.17,2.25-4.3,5.31-6.07,6.94c-0.1903,0.1718-0.4797,0.1718-0.67,0C5.39,12.06,2.26,9,1.09,6.75&#xA;&#x9;C-1.48,1.8,5-1.5,7.5,3.45C10-1.5,16.48,1.8,13.91,6.75z"/>
-</svg>
-       </span>
-       
-    
-    </div>
-
-    
-      <div class="powerby">
-        
-      </div>
-    
+		<div class="post-tags">
+			
+			
+			<nav class="nav tags">
+				<ul class="tags">
+					
+					<li><a href="/tags/sql">sql</a></li>
+					
+					<li><a href="/tags/linux">linux</a></li>
+					
+				</ul>
+			</nav>
+			
+			
+		</div>
+		</article>
+</main>
+<footer>
+  <div style="display:flex"></div>
+  <div class="footer-info">
+    2024  <a
+      href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
+  </div>
 </footer>
-
-
-
-  </body>
+</div>
+    </body>
 </html>
