@@ -5,7 +5,7 @@ tags = ['hugo']
 categorias = ['tech nerd']
 +++
 
-# configurando um site em Hugo
+## configurando um site em Hugo
 
 Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos [hugo](https://gohugo.io/)  e hospedá-lo no github.
 
@@ -16,19 +16,19 @@ Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedag
 Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?  
 
 
-## da escolha do repositório
+### da escolha do repositório
 Da ultima vez que eu tentei fazer algo parecido, com Jekyll, eu li que para hospedar o site no github , com domínio próprio, o site de deveria estar direcionado para a pagina principal do usuário, o USUARIO.github.io
 
 No pouco que li sobre o Hugo, não achei nada a respeito, mas vou testar primeiro nesse domínio para garantir o sucesso.
 
-### update
+##### update
 Parece que esse é um padrão para todo serviço hospedado no github.
 
 ## documentação
  vou começar por aqui:
  https://gohugo.io/getting-started/quick-start/
 
-### primeiro dia
+#### primeiro dia
 1. eu clonei o diretório USUARIO.github.io para meu computador
 2. depois teste o comando Hugo new site USUARIO.github.io
 	1. deu erro, pois esse comando não aceita criar site sobre um diretório que já existe
@@ -48,21 +48,21 @@ Parece que esse é um padrão para todo serviço hospedado no github.
 	3. Mas no apareceu na página inicial :-/
 	4. vou ter que ler novamente sobre a instalação do tema
 
-### segundo dia
+#### segundo dia
 1. eu não segui as instruções de instalação do tema, para variar, e achei que a parte que pedia para copiar o site de exemplo era opcional, mas logo descobri que não era.
 2. depois de copiado o site de exemplo, o post que eu havia criado apareceu.
 	1. Começando a entender o funcionamento da pasta `content/` , aparentemente cada tema exige que o conteúdo fique em pastas específicas, sendo que `blog/` é padrão para vários temas que segue esse padrão de blog.
 3. TODO: descobrir onde fica essas configurações no tema
 4. Agora vou começar a mudar o site de exemplo para o meu conteúdo, vou lá e volta já
 
-#### mudança de configuração
+##### mudança de configuração
 1.   quando eu rodo o servidor local hugo recebo a seguinte mensagem: `.Site.IsServer was deprecated in Hugo v0.120.0 and will be removed in a future release. Use hugo.IsServer instead.`
 2. tenho que descobrir onde está essa config
 3. usei o comando `grep -r 'Server' *` para achar as configurações (esse `-r` , de recursivo, que busca em pastas e subpastas, salva a vida em vários comandos bash) 
 	1. estavam em themes/hugo-winston-theme/layouts/partials/google-analytics.html e hugo-winston-theme/layouts/partials/plausible-analytics.html
 	2. corrigi e deu certo
 
-### terceiro dia
+#### terceiro dia
 1. hoje vou continuar alterando o site de exemplo para meu gosto
 2. As imagens ficam armazenadas na pasta `public/images`, pelo menos para esse tema
 	1. na pagina about: está configurado da seguinte maneira:
@@ -75,7 +75,7 @@ Parece que esse é um padrão para todo serviço hospedado no github.
 4. por hoje deu
 
 
-### quarto dia
+#### quarto dia
 1. decidi que não gostei do tema que escolhi, vou com outro
 2. mas antes quero colocar o site no ar logo :-)
 	1. vamos às pesquisas

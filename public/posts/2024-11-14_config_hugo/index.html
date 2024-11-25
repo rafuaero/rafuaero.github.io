@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html><head lang="en"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<html><head lang="en">
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>configurando o Hugo CMS - costacurta.me</title><meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="configurando um site em Hugo
@@ -8,7 +8,7 @@ Vamos ver como as coisas saem.
 Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedagem já integrada a um repositório.
 Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?" />
 	<meta property="og:image" content=""/>
-	<meta property="og:url" content="http://localhost:1313/posts/2024-11-14_config_hugo/">
+	<meta property="og:url" content="https://rafuaero.github.io/posts/2024-11-14_config_hugo/">
   <meta property="og:site_name" content="costacurta.me">
   <meta property="og:title" content="configurando o Hugo CMS">
   <meta property="og:description" content="configurando um site em Hugo Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos hugo e hospedá-lo no github.
@@ -30,11 +30,11 @@ Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedag
 Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?">
 
 	
-        <link href="http://localhost:1313/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
+        <link href="https://rafuaero.github.io/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
 	
 
 	
-	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/css/main.5cebd7d4fb2b97856af8d32a6def16164fcf7d844e98e236fcb3559655020373.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://rafuaero.github.io/css/main.5cebd7d4fb2b97856af8d32a6def16164fcf7d844e98e236fcb3559655020373.css" />
 
 	
 	
@@ -47,7 +47,7 @@ Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar 
 <body>
         <div class="content"><header>
 	<div class="main">
-		<a href="http://localhost:1313/">costacurta.me</a>
+		<a href="https://rafuaero.github.io/">costacurta.me</a>
 	</div>
 	<nav>
 		
@@ -76,20 +76,20 @@ Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar 
 		
 
 		<section class="body">
-			<h1 id="configurando-um-site-em-hugo">configurando um site em Hugo</h1>
+			<h2 id="configurando-um-site-em-hugo">configurando um site em Hugo</h2>
 <p>Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos <a href="https://gohugo.io/">hugo</a>  e hospedá-lo no github.</p>
 <p>Vamos ver como as coisas saem.</p>
 <p>Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedagem já integrada a um repositório.</p>
 <p>Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?</p>
-<h2 id="da-escolha-do-repositório">da escolha do repositório</h2>
+<h3 id="da-escolha-do-repositório">da escolha do repositório</h3>
 <p>Da ultima vez que eu tentei fazer algo parecido, com Jekyll, eu li que para hospedar o site no github , com domínio próprio, o site de deveria estar direcionado para a pagina principal do usuário, o USUARIO.github.io</p>
 <p>No pouco que li sobre o Hugo, não achei nada a respeito, mas vou testar primeiro nesse domínio para garantir o sucesso.</p>
-<h3 id="update">update</h3>
+<h5 id="update">update</h5>
 <p>Parece que esse é um padrão para todo serviço hospedado no github.</p>
 <h2 id="documentação">documentação</h2>
 <p>vou começar por aqui:
 <a href="https://gohugo.io/getting-started/quick-start/">https://gohugo.io/getting-started/quick-start/</a></p>
-<h3 id="primeiro-dia">primeiro dia</h3>
+<h4 id="primeiro-dia">primeiro dia</h4>
 <ol>
 <li>eu clonei o diretório USUARIO.github.io para meu computador</li>
 <li>depois teste o comando Hugo new site USUARIO.github.io
@@ -122,7 +122,7 @@ Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar 
 </ol>
 </li>
 </ol>
-<h3 id="segundo-dia">segundo dia</h3>
+<h4 id="segundo-dia">segundo dia</h4>
 <ol>
 <li>eu não segui as instruções de instalação do tema, para variar, e achei que a parte que pedia para copiar o site de exemplo era opcional, mas logo descobri que não era.</li>
 <li>depois de copiado o site de exemplo, o post que eu havia criado apareceu.
@@ -133,7 +133,7 @@ Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar 
 <li>TODO: descobrir onde fica essas configurações no tema</li>
 <li>Agora vou começar a mudar o site de exemplo para o meu conteúdo, vou lá e volta já</li>
 </ol>
-<h4 id="mudança-de-configuração">mudança de configuração</h4>
+<h5 id="mudança-de-configuração">mudança de configuração</h5>
 <ol>
 <li>quando eu rodo o servidor local hugo recebo a seguinte mensagem: <code>.Site.IsServer was deprecated in Hugo v0.120.0 and will be removed in a future release. Use hugo.IsServer instead.</code></li>
 <li>tenho que descobrir onde está essa config</li>
@@ -144,7 +144,7 @@ Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar 
 </ol>
 </li>
 </ol>
-<h3 id="terceiro-dia">terceiro dia</h3>
+<h4 id="terceiro-dia">terceiro dia</h4>
 <ol>
 <li>hoje vou continuar alterando o site de exemplo para meu gosto</li>
 <li>As imagens ficam armazenadas na pasta <code>public/images</code>, pelo menos para esse tema
@@ -166,7 +166,7 @@ Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar 
 </li>
 <li>por hoje deu</li>
 </ol>
-<h3 id="quarto-dia">quarto dia</h3>
+<h4 id="quarto-dia">quarto dia</h4>
 <ol>
 <li>decidi que não gostei do tema que escolhi, vou com outro</li>
 <li>mas antes quero colocar o site no ar logo :-)
@@ -235,6 +235,22 @@ Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar 
       href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
   </div>
 </footer>
+
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-287QNEHVGP"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-287QNEHVGP');
+        }
+      </script>
 </div>
     </body>
 </html>
