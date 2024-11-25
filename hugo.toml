@@ -4,7 +4,7 @@ title = 'costacurta.me'
 theme = 'archie'
 
 [params]
-	subtitle = 'aventuras em hugo'
+# 	subtitle = 'aventuras em hugo'
 
   [[menu.main]]
   name = "Home"
