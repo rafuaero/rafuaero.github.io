@@ -1,16 +1,37 @@
 baseURL = 'https://rafuaero.github.io/'
 languageCode = 'pt-BR'
 title = 'costacurta.me'
-theme = 'mini'
+theme = 'archie'
 
 [params]
 	subtitle = 'aventuras em hugo'
+
+  [[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "All posts"
+  url = "/posts"
+  weight = 2
+
+  [[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 3
+
+  [[menu.main]]
+  name = "Tags"
+  url = "/tags"
+  weight = 4
+
 
 [taxonomies]
   category = "categories"
   tag = 'tags'
 
-sectionPagesMenu = 'main'
+# sectionPagesMenu = 'main'
 
 
 # essa config é para merge as configurações aqui e do tema
