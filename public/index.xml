@@ -13,35 +13,35 @@
       <link>https://rafuaero.github.io/tech/2024-11-24_permisoes_sql/</link>
       <pubDate>Sun, 24 Nov 2024 10:27:29 -0300</pubDate>
       <guid>https://rafuaero.github.io/tech/2024-11-24_permisoes_sql/</guid>
-      <description>Permissões SQL Postgres 🔗Passando aqui para deixar registrado uma dica rápida.&#xA;Uma das coisas que estava me desanimando a aprender POSTGRESQL era a dificuldade com:&#xA;acessar o banco de dados em primeiro lugar, usando o pgadmin conseguir copiar qualquer arquivo para o banco de dados O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.</description>
+      <description>&lt;h2 id=&#34;permissões-sql-postgres&#34;&gt;Permissões SQL Postgres &lt;a href=&#34;#permiss%c3%b5es-sql-postgres&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Passando aqui para deixar registrado uma dica rápida.&lt;/p&gt;&#xA;&lt;p&gt;Uma das coisas que estava me desanimando a aprender &lt;a href=&#34;https://www.postgresql.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;POSTGRESQL&lt;/a&gt; era a dificuldade com:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;acessar o banco de dados em primeiro lugar, usando o &lt;a href=&#34;https://www.pgadmin.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pgadmin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;conseguir copiar qualquer arquivo para o banco de dados&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blogroll</title>
       <link>https://rafuaero.github.io/listas/blogroll/</link>
       <pubDate>Wed, 20 Nov 2024 15:57:56 -0300</pubDate>
       <guid>https://rafuaero.github.io/listas/blogroll/</guid>
-      <description>Hugo stuff 🔗Blogging with Hugo 🔗https://digitaldrummerj.me/series/blogging-with-hugo/&#xA;dicas de menu em Hugo 🔗https://harrycresswell.com/writing/menus-in-hugo/</description>
+      <description>&lt;h1 id=&#34;hugo-stuff&#34;&gt;Hugo stuff &lt;a href=&#34;#hugo-stuff&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;&lt;h2 id=&#34;blogging-with-hugo&#34;&gt;Blogging with Hugo &lt;a href=&#34;#blogging-with-hugo&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://digitaldrummerj.me/series/blogging-with-hugo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://digitaldrummerj.me/series/blogging-with-hugo/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;dicas-de-menu-em-hugo&#34;&gt;dicas de menu em Hugo &lt;a href=&#34;#dicas-de-menu-em-hugo&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://harrycresswell.com/writing/menus-in-hugo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://harrycresswell.com/writing/menus-in-hugo/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apps que eu uso no Linux</title>
       <link>https://rafuaero.github.io/posts/linux_apps/</link>
       <pubDate>Wed, 20 Nov 2024 15:38:52 -0300</pubDate>
       <guid>https://rafuaero.github.io/posts/linux_apps/</guid>
-      <description>alacritty terminal emulator. Muito bom. Comecei a usá-lo depois que não consegui configurar o combo NVIM + Lazy vim no terminal do Mac OS. Sentir necessidade de mudar o terminal padrão do sistema operacional é começo da separação entre adultos e crianças. vim não uso por ser mais produtivo, uso por ser mais divertido (alguns dirão que é masoquismo). fzf excelete para achar aqueles arquivos/pastas perdidos no computador zoxide cd with steroids Comecei com esses, vou atualizando com o tempo</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://alacritty.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;alacritty&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;terminal emulator. Muito bom. Comecei a usá-lo depois que não consegui configurar o combo NVIM + Lazy vim no terminal do Mac OS.&lt;/li&gt;&#xA;&lt;li&gt;Sentir necessidade de mudar o terminal padrão do sistema operacional é começo da separação entre adultos e crianças.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vim.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vim&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;não uso por ser mais produtivo, uso por ser mais divertido (alguns dirão que é masoquismo).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/junegunn/fzf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fzf&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;excelete para achar aqueles arquivos/pastas perdidos no computador&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/ajeetdsouza/zoxide&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zoxide&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;cd with steroids&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Comecei com esses, vou atualizando com o tempo&lt;/p&gt;</description>
     </item>
     <item>
       <title>configurando o Hugo CMS</title>
       <link>https://rafuaero.github.io/posts/2024-11-14_config_hugo/</link>
       <pubDate>Thu, 14 Nov 2024 20:18:34 -0300</pubDate>
       <guid>https://rafuaero.github.io/posts/2024-11-14_config_hugo/</guid>
-      <description>configurando um site em Hugo 🔗Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos hugo e hospedá-lo no github.&#xA;Vamos ver como as coisas saem.&#xA;Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedagem já integrada a um repositório.&#xA;Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?</description>
+      <description>&lt;h1 id=&#34;configurando-um-site-em-hugo&#34;&gt;configurando um site em Hugo &lt;a href=&#34;#configurando-um-site-em-hugo&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hugo&lt;/a&gt;  e hospedá-lo no github.&lt;/p&gt;&#xA;&lt;p&gt;Vamos ver como as coisas saem.&lt;/p&gt;&#xA;&lt;p&gt;Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedagem já integrada a um repositório.&lt;/p&gt;&#xA;&lt;p&gt;Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Primeiro post</title>
       <link>https://rafuaero.github.io/posts/primeiro/</link>
       <pubDate>Thu, 14 Nov 2024 19:44:47 -0300</pubDate>
       <guid>https://rafuaero.github.io/posts/primeiro/</guid>
-      <description>começando de novo por aqui 🔗primeiro post</description>
+      <description>&lt;h2 id=&#34;começando-de-novo-por-aqui&#34;&gt;começando de novo por aqui &lt;a href=&#34;#come%c3%a7ando-de-novo-por-aqui&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;primeiro post&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
