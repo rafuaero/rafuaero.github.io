@@ -31,7 +31,7 @@ theme = 'archie'
   url = "/about"
   weight = 5
 
-  
+ # tableOfContents = true 
 
 # sectionPagesMenu = 'main'
 
