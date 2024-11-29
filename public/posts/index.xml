@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on costacurta.me</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://rafuaero.github.io/posts/</link>
     <description>Recent content in Posts on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Wed, 20 Nov 2024 15:38:52 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rafuaero.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apps que eu uso no Linux</title>
-      <link>http://localhost:1313/posts/linux_apps/</link>
+      <link>https://rafuaero.github.io/posts/linux_apps/</link>
       <pubDate>Wed, 20 Nov 2024 15:38:52 -0300</pubDate>
-      <guid>http://localhost:1313/posts/linux_apps/</guid>
+      <guid>https://rafuaero.github.io/posts/linux_apps/</guid>
       <description>Ainda pretendo escrever um post falando de porque comecei a usar linux, mas, por agora, vamos ao meu setup atual:&#xA;Estou usando o Fedora, com que estou muito satisfeito. Bastante estável e funciona bem com meu hardware atual. Por enquanto estou conseguindo fugir do mal do distro hopping.&#xA;No ambiente gráfico comecei com o KDE, mas depois mudei pro gnome. Agora estou variando entre os dois. Dependendo do meu humor no dia, tem coisas que gosto mais em um e coisas que gosto mais no outro.</description>
     </item>
     <item>
       <title>configurando o Hugo CMS</title>
-      <link>http://localhost:1313/posts/2024-11-14_config_hugo/</link>
+      <link>https://rafuaero.github.io/posts/2024-11-14_config_hugo/</link>
       <pubDate>Thu, 14 Nov 2024 20:18:34 -0300</pubDate>
-      <guid>http://localhost:1313/posts/2024-11-14_config_hugo/</guid>
+      <guid>https://rafuaero.github.io/posts/2024-11-14_config_hugo/</guid>
       <description>configurando um site em Hugo Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos hugo e hospedá-lo no github.&#xA;Vamos ver como as coisas saem.&#xA;Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedagem já integrada a um repositório.&#xA;Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?</description>
     </item>
     <item>
       <title>Primeiro post</title>
-      <link>http://localhost:1313/posts/primeiro/</link>
+      <link>https://rafuaero.github.io/posts/primeiro/</link>
       <pubDate>Thu, 14 Nov 2024 19:44:47 -0300</pubDate>
-      <guid>http://localhost:1313/posts/primeiro/</guid>
+      <guid>https://rafuaero.github.io/posts/primeiro/</guid>
       <description>começando de novo por aqui primeiro post</description>
     </item>
   </channel>
