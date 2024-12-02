@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sql on costacurta.me</title>
-    <link>http://localhost:1313/tags/sql/</link>
+    <link>https://rafuaero.github.io/tags/sql/</link>
     <description>Recent content in Sql on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 24 Nov 2024 10:27:29 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rafuaero.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech nerd: permissões SQL</title>
-      <link>http://localhost:1313/outros/tech/2024-11-24_permisoes_sql/</link>
+      <link>https://rafuaero.github.io/outros/tech/2024-11-24_permisoes_sql/</link>
       <pubDate>Sun, 24 Nov 2024 10:27:29 -0300</pubDate>
-      <guid>http://localhost:1313/outros/tech/2024-11-24_permisoes_sql/</guid>
+      <guid>https://rafuaero.github.io/outros/tech/2024-11-24_permisoes_sql/</guid>
       <description>&lt;h2 id=&#34;permissões-sql-postgres&#34;&gt;Permissões SQL Postgres&lt;/h2&gt;&#xA;&lt;p&gt;Passando aqui para deixar registrado uma dica rápida.&lt;/p&gt;&#xA;&lt;p&gt;Uma das coisas que estava me desanimando a aprender &lt;a href=&#34;https://www.postgresql.org/&#34;&gt;POSTGRESQL&lt;/a&gt; era a dificuldade com:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;acessar o banco de dados em primeiro lugar, usando o &lt;a href=&#34;https://www.pgadmin.org/&#34;&gt;pgadmin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;conseguir copiar qualquer arquivo para o banco de dados&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.&lt;/p&gt;</description>
     </item>
   </channel>
