@@ -25,7 +25,7 @@ em meados de 2024 resolvi testar Linux novamente. coisa de Nerd, estava afim de 
 
 com o windows 11, me irrita toda vez que a ventoinha da máquina dispara só de eu ligar o computador, fora as vezes que ele começa a berrar com algum processo do windows como indexação do hd ou algo relacionado a busca por malware.
 
-por um breve período de tempo, tive um notebook Dell XPS e a coisa foi ainda pior, pois o incômodo não era apenas estético da ventoinha ligada eternamente, a bateria passou a não durar muito menos depois que atualizei para a nova versão do windows. Aliás, esse dell xps foi para mim uma grande decepção, mas isso fica para outro post.
+por um breve período de tempo, tive um notebook Dell XPS e a coisa foi ainda pior, pois o incômodo não era apenas estético da ventoinha ligada eternamente, a bateria passou a durar muito menos depois que atualizei para a nova versão do windows. Aliás, esse dell xps foi para mim uma grande decepção, mas isso fica para outro post.
 
 ### decidindo qual linux instalar
 depois de algumas pesquisas na internet, decidi que não queria testar o ubuntu novamente, que vinha lendo críticas a respeito da direção que o projeto estava tomando, sem entender exatamente quais problema eram esses.
