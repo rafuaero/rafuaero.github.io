@@ -6,30 +6,26 @@ theme = 'archie'
 [params]
 # 	subtitle = 'aventuras em hugo'
 
-  [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 1
 
   [[menu.main]]
   name = "posts"
   url = "/posts"
-  weight = 2
+  weight = 1 
 
 [[menu.main]]
   name = "outros"
   url = "/outros"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Tags"
   url = "/tags"
-  weight = 4
+  weight = 3
 
   [[menu.main]]
   name = "sobre"
   url = "/about"
-  weight = 5
+  weight = 4
 
  # tableOfContents = true 
 
