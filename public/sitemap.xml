@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rafuaero.github.io/tags/apple/</loc>
-    <lastmod>2024-12-02T09:56:55-03:00</lastmod>
+    <loc>https://rafuaero.github.io/posts/2024-12_configurando_hyprland/</loc>
+    <lastmod>2024-12-04T08:53:03-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/</loc>
+    <lastmod>2024-12-04T08:53:03-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/hyprland/</loc>
+    <lastmod>2024-12-04T08:53:03-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/linux/</loc>
+    <lastmod>2024-12-04T08:53:03-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/posts/</loc>
+    <lastmod>2024-12-04T08:53:03-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/qtile/</loc>
+    <lastmod>2024-12-04T08:53:03-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/sway/</loc>
+    <lastmod>2024-12-04T08:53:03-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/</loc>
+    <lastmod>2024-12-04T08:53:03-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/tiling/</loc>
+    <lastmod>2024-12-04T08:53:03-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/apple/</loc>
     <lastmod>2024-12-02T09:56:55-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/tags/dell/</loc>
     <lastmod>2024-12-02T09:56:55-03:00</lastmod>
   </url><url>
-    <loc>https://rafuaero.github.io/tags/linux/</loc>
-    <lastmod>2024-12-02T09:56:55-03:00</lastmod>
-  </url><url>
     <loc>https://rafuaero.github.io/posts/2024-12-01_comecei_linux/</loc>
-    <lastmod>2024-12-02T09:56:55-03:00</lastmod>
-  </url><url>
-    <loc>https://rafuaero.github.io/posts/</loc>
-    <lastmod>2024-12-02T09:56:55-03:00</lastmod>
-  </url><url>
-    <loc>https://rafuaero.github.io/tags/</loc>
     <lastmod>2024-12-02T09:56:55-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/tags/windows/</loc>

@@ -18,7 +18,7 @@ theme = 'archie'
   weight = 2
 
 [[menu.main]]
-  name = "Tags"
+  name = "tags"
   url = "/tags"
   weight = 3
 
