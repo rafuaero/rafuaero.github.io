@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on costacurta.me</title>
-    <link>https://rafuaero.github.io/tags/hugo/</link>
+    <link>http://localhost:1313/tags/hugo/</link>
     <description>Recent content in Hugo on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Wed, 20 Nov 2024 15:57:56 -0300</lastBuildDate>
-    <atom:link href="https://rafuaero.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Listas - Blogroll</title>
-      <link>https://rafuaero.github.io/outros/blogroll/</link>
+      <link>http://localhost:1313/outros/blogroll/</link>
       <pubDate>Wed, 20 Nov 2024 15:57:56 -0300</pubDate>
-      <guid>https://rafuaero.github.io/outros/blogroll/</guid>
+      <guid>http://localhost:1313/outros/blogroll/</guid>
       <description>Tech, cultura, sociedade Manual do mundo https://manualdousuario.net&#xA;gosto muito, sempre com conteúdo relevante, engajado e crítico. Uma inspiração. Hugo stuff Blogging with Hugo https://digitaldrummerj.me/series/blogging-with-hugo/&#xA;dicas de menu em Hugo https://harrycresswell.com/writing/menus-in-hugo/</description>
     </item>
     <item>
       <title>configurando o Hugo CMS</title>
-      <link>https://rafuaero.github.io/posts/2024-11-14_config_hugo/</link>
+      <link>http://localhost:1313/posts/2024-11-14_config_hugo/</link>
       <pubDate>Thu, 14 Nov 2024 20:18:34 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2024-11-14_config_hugo/</guid>
+      <guid>http://localhost:1313/posts/2024-11-14_config_hugo/</guid>
       <description>configurando um site em Hugo Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos hugo e hospedá-lo no github.&#xA;Vamos ver como as coisas saem.&#xA;Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedagem já integrada a um repositório.&#xA;Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?</description>
     </item>
     <item>
       <title>Primeiro post</title>
-      <link>https://rafuaero.github.io/posts/primeiro/</link>
+      <link>http://localhost:1313/posts/primeiro/</link>
       <pubDate>Thu, 14 Nov 2024 19:44:47 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/primeiro/</guid>
+      <guid>http://localhost:1313/posts/primeiro/</guid>
       <description>começando de novo por aqui primeiro post</description>
     </item>
   </channel>
