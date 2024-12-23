@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emacs on costacurta.me</title>
-    <link>http://localhost:1313/tags/emacs/</link>
+    <link>https://rafuaero.github.io/tags/emacs/</link>
     <description>Recent content in Emacs on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Mon, 23 Dec 2024 08:54:17 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rafuaero.github.io/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2024 12_emacs</title>
-      <link>http://localhost:1313/posts/2024-12_emacs/</link>
+      <title>emacs</title>
+      <link>https://rafuaero.github.io/posts/2024-12_emacs/</link>
       <pubDate>Mon, 23 Dec 2024 08:54:17 -0300</pubDate>
-      <guid>http://localhost:1313/posts/2024-12_emacs/</guid>
+      <guid>https://rafuaero.github.io/posts/2024-12_emacs/</guid>
       <description>aproveitei uma curta pausa no litoral da Bahia e a presença de um notebook à minha disposição e fiz o que qualquer um faria e resolvi aprender uma coisa nova.&#xA;depois de alguns anos de hesitação, decidi que era hora de escalar mais um cume do mundo open source: EMACS&#xA;o que o emacs não é nunca havia tentado seriamente aprender a usá-lo por na verdade nunca ter entendido o que é o emacs.</description>
     </item>
   </channel>

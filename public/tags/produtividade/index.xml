@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Produtividade on costacurta.me</title>
-    <link>http://localhost:1313/tags/produtividade/</link>
+    <link>https://rafuaero.github.io/tags/produtividade/</link>
     <description>Recent content in Produtividade on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Mon, 23 Dec 2024 08:54:17 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/produtividade/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rafuaero.github.io/tags/produtividade/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2024 12_emacs</title>
-      <link>http://localhost:1313/posts/2024-12_emacs/</link>
+      <title>emacs</title>
+      <link>https://rafuaero.github.io/posts/2024-12_emacs/</link>
       <pubDate>Mon, 23 Dec 2024 08:54:17 -0300</pubDate>
-      <guid>http://localhost:1313/posts/2024-12_emacs/</guid>
+      <guid>https://rafuaero.github.io/posts/2024-12_emacs/</guid>
       <description>aproveitei uma curta pausa no litoral da Bahia e a presença de um notebook à minha disposição e fiz o que qualquer um faria e resolvi aprender uma coisa nova.&#xA;depois de alguns anos de hesitação, decidi que era hora de escalar mais um cume do mundo open source: EMACS&#xA;o que o emacs não é nunca havia tentado seriamente aprender a usá-lo por na verdade nunca ter entendido o que é o emacs.</description>
     </item>
     <item>
       <title>Apps que eu uso no Linux</title>
-      <link>http://localhost:1313/posts/linux_apps/</link>
+      <link>https://rafuaero.github.io/posts/linux_apps/</link>
       <pubDate>Wed, 20 Nov 2024 15:38:52 -0300</pubDate>
-      <guid>http://localhost:1313/posts/linux_apps/</guid>
+      <guid>https://rafuaero.github.io/posts/linux_apps/</guid>
       <description>Ainda pretendo escrever um post falando de porque comecei a usar linux, mas, por agora, vamos ao meu setup atual:&#xA;Estou usando o Fedora, com que estou muito satisfeito. Bastante estável e funciona bem com meu hardware atual. Por enquanto estou conseguindo fugir do mal do distro hopping.&#xA;No ambiente gráfico comecei com o KDE, mas depois mudei pro gnome. Agora estou variando entre os dois. Dependendo do meu humor no dia, tem coisas que gosto mais em um e coisas que gosto mais no outro.</description>
     </item>
   </channel>
