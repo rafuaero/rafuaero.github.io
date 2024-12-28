@@ -28,7 +28,7 @@ com o windows 11, me irrita toda vez que a ventoinha da máquina dispara só de 
 por um breve período de tempo, tive um notebook dell XPS e a coisa foi ainda pior, pois o incômodo não era apenas estético da ventoinha ligada eternamente, a bateria passou a durar muito menos depois que atualizei para a nova versão do windows. aliás, esse dell xps foi para mim uma grande decepção, mas isso fica para outro post.
 
 ### decidindo qual linux instalar
-depois de algumas pesquisas na internet, decidi que não queria testar o ubuntu de novo, do qual vinha lendo críticas a respeito da direção que o projeto estava tomando, sem entender exatamente quais problema eram esses.
+depois de algumas pesquisas na internet, decidi que não queria testar o ubuntu de novo, do qual vinha lendo críticas a respeito da direção que o projeto estava tomando, sem entender exatamente quais problemas eram esses.
 
 acabei escolhendo, já nem lembro exatamente porque, o [fedora](https://fedoraproject.org/workstation/). e não me arrependo da escolha. estou bem satisfeito com essa distribuição e, milagrosamente, estou conseguindo fugir do mal do [distro hopping](https://www.google.com/search?q=distro+hopping).
 
