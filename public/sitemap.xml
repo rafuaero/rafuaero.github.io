@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rafuaero.github.io/tags/app/</loc>
+    <lastmod>2024-12-28T10:21:54-03:00</lastmod>
+  </url><url>
     <loc>https://rafuaero.github.io/</loc>
-    <lastmod>2024-12-23T08:54:17-03:00</lastmod>
+    <lastmod>2024-12-28T10:21:54-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/outros/2024-12_flameshot/</loc>
+    <lastmod>2024-12-28T10:21:54-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/</loc>
+    <lastmod>2024-12-28T10:21:54-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/utilitarios/</loc>
+    <lastmod>2024-12-28T10:21:54-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/posts/2024-12_emacs/</loc>
     <lastmod>2024-12-23T08:54:17-03:00</lastmod>
@@ -21,9 +33,6 @@
     <lastmod>2024-12-23T08:54:17-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/tags/produtividade/</loc>
-    <lastmod>2024-12-23T08:54:17-03:00</lastmod>
-  </url><url>
-    <loc>https://rafuaero.github.io/tags/</loc>
     <lastmod>2024-12-23T08:54:17-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/posts/2024-12_configurando_hyprland/</loc>
