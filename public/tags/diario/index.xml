@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diario on costacurta.me</title>
+    <link>https://rafuaero.github.io/tags/diario/</link>
+    <description>Recent content in Diario on costacurta.me</description>
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Fri, 03 Jan 2025 08:41:23 -0300</lastBuildDate>
+    <atom:link href="https://rafuaero.github.io/tags/diario/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cpp</title>
+      <link>https://rafuaero.github.io/outros/2025-01_cpp/</link>
+      <pubDate>Fri, 03 Jan 2025 08:41:23 -0300</pubDate>
+      <guid>https://rafuaero.github.io/outros/2025-01_cpp/</guid>
+      <description>c++ como se já tivesse mais nada para fazer da vida, como se já não estivesse estudando SQL e python, resolvi começar a estudar c++.&#xA;acho que está faltando problema na minha vida.&#xA;não vou fazer grandes investimentos agora, vou ler o site learn cpp de cabo a rabo e depois eu vejo o que vai acontecer.&#xA;obs: assim como foi com SQL, o mais difícil de começar com o c++ é configurar o ambiente adequado para estudos, escolher um ide, configurar debugger, compilador, etc&amp;hellip; ainda estou bem perdido.</description>
+    </item>
+  </channel>
+</rss>

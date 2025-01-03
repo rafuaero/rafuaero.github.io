@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rafuaero.github.io/</loc>
+    <lastmod>2025-01-03T08:41:23-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/outros/2025-01_cpp/</loc>
+    <lastmod>2025-01-03T08:41:23-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/cpp/</loc>
+    <lastmod>2025-01-03T08:41:23-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/diario/</loc>
+    <lastmod>2025-01-03T08:41:23-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/</loc>
+    <lastmod>2025-01-03T08:41:23-03:00</lastmod>
+  </url><url>
     <loc>https://rafuaero.github.io/tags/app/</loc>
     <lastmod>2024-12-28T10:21:54-03:00</lastmod>
   </url><url>
-    <loc>https://rafuaero.github.io/</loc>
-    <lastmod>2024-12-28T10:21:54-03:00</lastmod>
-  </url><url>
     <loc>https://rafuaero.github.io/outros/2024-12_flameshot/</loc>
-    <lastmod>2024-12-28T10:21:54-03:00</lastmod>
-  </url><url>
-    <loc>https://rafuaero.github.io/tags/</loc>
     <lastmod>2024-12-28T10:21:54-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/tags/utilitarios/</loc>
