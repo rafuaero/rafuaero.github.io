@@ -2,17 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Listas on costacurta.me</title>
-    <link>http://localhost:1313/outros/</link>
+    <link>https://rafuaero.github.io/outros/</link>
     <description>Recent content in Listas on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
-<<<<<<< HEAD
     <lastBuildDate>Fri, 03 Jan 2025 08:41:23 -0300</lastBuildDate>
     <atom:link href="https://rafuaero.github.io/outros/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <lastBuildDate>Sat, 28 Dec 2024 10:21:54 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/outros/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> f2c3c78 (mudei o email de contato)
     <item>
       <title>cpp</title>
       <link>https://rafuaero.github.io/outros/2025-01_cpp/</link>
@@ -22,24 +17,24 @@
     </item>
     <item>
       <title>flameshot</title>
-      <link>http://localhost:1313/outros/2024-12_flameshot/</link>
+      <link>https://rafuaero.github.io/outros/2024-12_flameshot/</link>
       <pubDate>Sat, 28 Dec 2024 10:21:54 -0300</pubDate>
-      <guid>http://localhost:1313/outros/2024-12_flameshot/</guid>
-      <description>&lt;h2 id=&#34;flameshot&#34;&gt;flameshot&lt;/h2&gt;&#xA;&lt;p&gt;#dica de app&lt;/p&gt;&#xA;&lt;p&gt;recentemente precisei fazer uma anotação numa captura de tela e para minha surpresa descobri que não tinha nenhum app definido para fazer esse tipo de serviço no Fedora.&lt;/p&gt;&#xA;&lt;p&gt;Tentei a ferramenta padrão de captura de tela do gnome, mas essa é supersimples e não faz nada além de apenas capturar a imagem.&lt;/p&gt;&#xA;&lt;p&gt;uma pesquisa rápida na internet e achei apenas um chamado &lt;a href=&#34;https://github.com/phase1geo/Annotator&#34;&gt;Annotator&lt;/a&gt; que parece bom, mas não consegui instalar de jeito nenhum :-/ ele parece ter sido feito para ser usado com o &lt;a href=&#34;https://elementary.io/pt_BR/&#34;&gt;elementary OS&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://rafuaero.github.io/outros/2024-12_flameshot/</guid>
+      <description>flameshot #dica de app&#xA;recentemente precisei fazer uma anotação numa captura de tela e para minha surpresa descobri que não tinha nenhum app definido para fazer esse tipo de serviço no Fedora.&#xA;Tentei a ferramenta padrão de captura de tela do gnome, mas essa é supersimples e não faz nada além de apenas capturar a imagem.&#xA;uma pesquisa rápida na internet e achei apenas um chamado Annotator que parece bom, mas não consegui instalar de jeito nenhum :-/ ele parece ter sido feito para ser usado com o elementary OS.</description>
     </item>
     <item>
       <title>Tech nerd: permissões SQL</title>
-      <link>http://localhost:1313/outros/tech/2024-11-24_permisoes_sql/</link>
+      <link>https://rafuaero.github.io/outros/tech/2024-11-24_permisoes_sql/</link>
       <pubDate>Sun, 24 Nov 2024 10:27:29 -0300</pubDate>
-      <guid>http://localhost:1313/outros/tech/2024-11-24_permisoes_sql/</guid>
-      <description>&lt;h2 id=&#34;permissões-sql-postgres&#34;&gt;Permissões SQL Postgres&lt;/h2&gt;&#xA;&lt;p&gt;Passando aqui para deixar registrado uma dica rápida.&lt;/p&gt;&#xA;&lt;p&gt;Uma das coisas que estava me desanimando a aprender &lt;a href=&#34;https://www.postgresql.org/&#34;&gt;POSTGRESQL&lt;/a&gt; era a dificuldade com:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;acessar o banco de dados em primeiro lugar, usando o &lt;a href=&#34;https://www.pgadmin.org/&#34;&gt;pgadmin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;conseguir copiar qualquer arquivo para o banco de dados&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.&lt;/p&gt;</description>
+      <guid>https://rafuaero.github.io/outros/tech/2024-11-24_permisoes_sql/</guid>
+      <description>Permissões SQL Postgres Passando aqui para deixar registrado uma dica rápida.&#xA;Uma das coisas que estava me desanimando a aprender POSTGRESQL era a dificuldade com:&#xA;acessar o banco de dados em primeiro lugar, usando o pgadmin conseguir copiar qualquer arquivo para o banco de dados O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.</description>
     </item>
     <item>
       <title>Listas - Blogroll</title>
-      <link>http://localhost:1313/outros/blogroll/</link>
+      <link>https://rafuaero.github.io/outros/blogroll/</link>
       <pubDate>Wed, 20 Nov 2024 15:57:56 -0300</pubDate>
-      <guid>http://localhost:1313/outros/blogroll/</guid>
-      <description>&lt;h1 id=&#34;tech-cultura-sociedade&#34;&gt;Tech, cultura, sociedade&lt;/h1&gt;&#xA;&lt;h2 id=&#34;manual-do-mundo&#34;&gt;Manual do mundo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://manualdousuario.net&#34;&gt;https://manualdousuario.net&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;gosto muito, sempre com conteúdo relevante, engajado e crítico. Uma inspiração.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;hugo-stuff&#34;&gt;Hugo stuff&lt;/h1&gt;&#xA;&lt;h2 id=&#34;blogging-with-hugo&#34;&gt;Blogging with Hugo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://digitaldrummerj.me/series/blogging-with-hugo/&#34;&gt;https://digitaldrummerj.me/series/blogging-with-hugo/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;dicas-de-menu-em-hugo&#34;&gt;dicas de menu em Hugo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://harrycresswell.com/writing/menus-in-hugo/&#34;&gt;https://harrycresswell.com/writing/menus-in-hugo/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://rafuaero.github.io/outros/blogroll/</guid>
+      <description>Tech, cultura, sociedade Manual do mundo https://manualdousuario.net&#xA;gosto muito, sempre com conteúdo relevante, engajado e crítico. Uma inspiração. Hugo stuff Blogging with Hugo https://digitaldrummerj.me/series/blogging-with-hugo/&#xA;dicas de menu em Hugo https://harrycresswell.com/writing/menus-in-hugo/</description>
     </item>
   </channel>
 </rss>
