@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rafuaero.github.io/outros/2025-01_nokia_design_archive/</loc>
+    <lastmod>2025-01-16T09:08:26-03:00</lastmod>
+  </url><url>
     <loc>https://rafuaero.github.io/</loc>
-    <lastmod>2025-01-03T08:41:23-03:00</lastmod>
+    <lastmod>2025-01-16T09:08:26-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/design/</loc>
+    <lastmod>2025-01-16T09:08:26-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/nokia/</loc>
+    <lastmod>2025-01-16T09:08:26-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/nostalgia/</loc>
+    <lastmod>2025-01-16T09:08:26-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/</loc>
+    <lastmod>2025-01-16T09:08:26-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/outros/2025-01_cpp/</loc>
     <lastmod>2025-01-03T08:41:23-03:00</lastmod>
@@ -12,9 +27,6 @@
     <lastmod>2025-01-03T08:41:23-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/tags/diario/</loc>
-    <lastmod>2025-01-03T08:41:23-03:00</lastmod>
-  </url><url>
-    <loc>https://rafuaero.github.io/tags/</loc>
     <lastmod>2025-01-03T08:41:23-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/tags/app/</loc>
