@@ -1,5 +1,5 @@
 +++
-title = '2025 01_nokia_design_archive'
+title = 'nokia design archive'
 date = 2025-01-16T09:08:26-03:00
 tags = ['nokia', 'design', 'nostalgia']
 +++

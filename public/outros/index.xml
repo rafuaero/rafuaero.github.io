@@ -9,39 +9,39 @@
     <lastBuildDate>Thu, 16 Jan 2025 09:08:26 -0300</lastBuildDate>
     <atom:link href="https://rafuaero.github.io/outros/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2025 01_nokia_design_archive</title>
+      <title>nokia design archive</title>
       <link>https://rafuaero.github.io/outros/2025-01_nokia_design_archive/</link>
       <pubDate>Thu, 16 Jan 2025 09:08:26 -0300</pubDate>
       <guid>https://rafuaero.github.io/outros/2025-01_nokia_design_archive/</guid>
-      <description>Nokia design archives vi aqui no manual do usúario.&#xA;nokia design archive&#xA;site com muita informação sobre os processos de design dentro da nokia, desde a criação de conceitos, prototipagem e lançamento de aparelhos.&#xA;sempre fui muito fã dos celulares da nokia. nunca vou esquecer do meu 6600 o primeiro celular que eu tive com câmera embutida, e um sistema operacional que o tornava um proto smartphone alguns anos antes do iphone, mais ou menos à mesma época que o blackberry estava dominando o &amp;ldquo;mundo corporativo&amp;rdquo;.</description>
+      <description>&lt;h2 id=&#34;nokia-design-archives&#34;&gt;Nokia design archives&lt;/h2&gt;&#xA;&lt;p&gt;vi aqui no &lt;a href=&#34;https://manualdousuario.net/nokia-design-archive/&#34;&gt;manual do usúario&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nokiadesignarchive.aalto.fi/index.html&#34;&gt;nokia design archive&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;site com muita informação sobre os processos de design dentro da nokia, desde a criação de conceitos, prototipagem e lançamento de aparelhos.&lt;/p&gt;&#xA;&lt;p&gt;sempre fui muito fã dos celulares da nokia. nunca vou esquecer do meu &lt;a href=&#34;https://www.gsmarena.com/nokia_6600-454.php&#34;&gt;6600&lt;/a&gt; o primeiro celular que eu tive com câmera embutida, e um &lt;a href=&#34;https://pt.wikipedia.org/wiki/Symbian&#34;&gt;sistema operacional&lt;/a&gt; que o tornava um proto smartphone alguns anos antes do iphone, mais ou menos à mesma época que o blackberry estava dominando o &lt;em&gt;&amp;ldquo;mundo corporativo&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>cpp</title>
       <link>https://rafuaero.github.io/outros/2025-01_cpp/</link>
       <pubDate>Fri, 03 Jan 2025 08:41:23 -0300</pubDate>
       <guid>https://rafuaero.github.io/outros/2025-01_cpp/</guid>
-      <description>c++ como se já tivesse mais nada para fazer da vida, como se já não estivesse estudando SQL e python, resolvi começar a estudar c++.&#xA;acho que está faltando problema na minha vida.&#xA;não vou fazer grandes investimentos agora, vou ler o site learn cpp de cabo a rabo e depois eu vejo o que vai acontecer.&#xA;obs: assim como foi com SQL, o mais difícil de começar com o c++ é configurar o ambiente adequado para estudos, escolher um ide, configurar debugger, compilador, etc&amp;hellip; ainda estou bem perdido.</description>
+      <description>&lt;h2 id=&#34;c&#34;&gt;c++&lt;/h2&gt;&#xA;&lt;p&gt;como se já tivesse mais nada para fazer da vida, como se já não estivesse estudando SQL e python, resolvi começar a estudar c++.&lt;/p&gt;&#xA;&lt;p&gt;acho que está faltando problema na minha vida.&lt;/p&gt;&#xA;&lt;p&gt;não vou fazer grandes investimentos agora, vou ler o site &lt;a href=&#34;https://www.learncpp.com/&#34;&gt;learn cpp&lt;/a&gt; de cabo a rabo e depois eu vejo o que vai acontecer.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;obs: assim como foi com SQL, o mais difícil de começar com o c++ é configurar o ambiente adequado para estudos, escolher um ide, configurar debugger, compilador, etc&amp;hellip; ainda estou bem perdido.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>flameshot</title>
       <link>https://rafuaero.github.io/outros/2024-12_flameshot/</link>
       <pubDate>Sat, 28 Dec 2024 10:21:54 -0300</pubDate>
       <guid>https://rafuaero.github.io/outros/2024-12_flameshot/</guid>
-      <description>flameshot #dica de app&#xA;recentemente precisei fazer uma anotação numa captura de tela e para minha surpresa descobri que não tinha nenhum app definido para fazer esse tipo de serviço no Fedora.&#xA;Tentei a ferramenta padrão de captura de tela do gnome, mas essa é supersimples e não faz nada além de apenas capturar a imagem.&#xA;uma pesquisa rápida na internet e achei apenas um chamado Annotator que parece bom, mas não consegui instalar de jeito nenhum :-/ ele parece ter sido feito para ser usado com o elementary OS.</description>
+      <description>&lt;h2 id=&#34;flameshot&#34;&gt;flameshot&lt;/h2&gt;&#xA;&lt;p&gt;#dica de app&lt;/p&gt;&#xA;&lt;p&gt;recentemente precisei fazer uma anotação numa captura de tela e para minha surpresa descobri que não tinha nenhum app definido para fazer esse tipo de serviço no Fedora.&lt;/p&gt;&#xA;&lt;p&gt;Tentei a ferramenta padrão de captura de tela do gnome, mas essa é supersimples e não faz nada além de apenas capturar a imagem.&lt;/p&gt;&#xA;&lt;p&gt;uma pesquisa rápida na internet e achei apenas um chamado &lt;a href=&#34;https://github.com/phase1geo/Annotator&#34;&gt;Annotator&lt;/a&gt; que parece bom, mas não consegui instalar de jeito nenhum :-/ ele parece ter sido feito para ser usado com o &lt;a href=&#34;https://elementary.io/pt_BR/&#34;&gt;elementary OS&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tech nerd: permissões SQL</title>
       <link>https://rafuaero.github.io/outros/tech/2024-11-24_permisoes_sql/</link>
       <pubDate>Sun, 24 Nov 2024 10:27:29 -0300</pubDate>
       <guid>https://rafuaero.github.io/outros/tech/2024-11-24_permisoes_sql/</guid>
-      <description>Permissões SQL Postgres Passando aqui para deixar registrado uma dica rápida.&#xA;Uma das coisas que estava me desanimando a aprender POSTGRESQL era a dificuldade com:&#xA;acessar o banco de dados em primeiro lugar, usando o pgadmin conseguir copiar qualquer arquivo para o banco de dados O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.</description>
+      <description>&lt;h2 id=&#34;permissões-sql-postgres&#34;&gt;Permissões SQL Postgres&lt;/h2&gt;&#xA;&lt;p&gt;Passando aqui para deixar registrado uma dica rápida.&lt;/p&gt;&#xA;&lt;p&gt;Uma das coisas que estava me desanimando a aprender &lt;a href=&#34;https://www.postgresql.org/&#34;&gt;POSTGRESQL&lt;/a&gt; era a dificuldade com:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;acessar o banco de dados em primeiro lugar, usando o &lt;a href=&#34;https://www.pgadmin.org/&#34;&gt;pgadmin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;conseguir copiar qualquer arquivo para o banco de dados&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Listas - Blogroll</title>
       <link>https://rafuaero.github.io/outros/blogroll/</link>
       <pubDate>Wed, 20 Nov 2024 15:57:56 -0300</pubDate>
       <guid>https://rafuaero.github.io/outros/blogroll/</guid>
-      <description>Tech, cultura, sociedade Manual do mundo https://manualdousuario.net&#xA;gosto muito, sempre com conteúdo relevante, engajado e crítico. Uma inspiração. Hugo stuff Blogging with Hugo https://digitaldrummerj.me/series/blogging-with-hugo/&#xA;dicas de menu em Hugo https://harrycresswell.com/writing/menus-in-hugo/</description>
+      <description>&lt;h1 id=&#34;tech-cultura-sociedade&#34;&gt;Tech, cultura, sociedade&lt;/h1&gt;&#xA;&lt;h2 id=&#34;manual-do-mundo&#34;&gt;Manual do mundo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://manualdousuario.net&#34;&gt;https://manualdousuario.net&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;gosto muito, sempre com conteúdo relevante, engajado e crítico. Uma inspiração.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;hugo-stuff&#34;&gt;Hugo stuff&lt;/h1&gt;&#xA;&lt;h2 id=&#34;blogging-with-hugo&#34;&gt;Blogging with Hugo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://digitaldrummerj.me/series/blogging-with-hugo/&#34;&gt;https://digitaldrummerj.me/series/blogging-with-hugo/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;dicas-de-menu-em-hugo&#34;&gt;dicas de menu em Hugo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://harrycresswell.com/writing/menus-in-hugo/&#34;&gt;https://harrycresswell.com/writing/menus-in-hugo/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
