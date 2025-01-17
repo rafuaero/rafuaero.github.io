@@ -10,6 +10,16 @@ https://manualdousuario.net
 
 - gosto muito, sempre com conteúdo relevante, engajado e crítico. Uma inspiração.
 
+## Daring Fireball
+https://daringfireball.net/
+
+- para quem curte o mundo Apple e cultura pop em geral, alguma coisa de política estadunidense. Mas principalmente Apple. um dos principais blogueiros do assundo.
+
+## Kottke
+https://kottke.org/
+
+- "home of fine hypertext products", assim ele se define.
+montanhas de links legais sobre cultura, tech, política, arte, etc...
 
 # Hugo stuff
 ## Blogging with Hugo
