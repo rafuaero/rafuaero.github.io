@@ -21,6 +21,10 @@ https://kottke.org/
 - "home of fine hypertext products", assim ele se define.
 montanhas de links legais sobre cultura, tech, política, arte, etc...
 
+## Spyglass
+https://spyglass.org/
+> "Insight from afar by M.G. Siegler"
+
 # Hugo stuff
 ## Blogging with Hugo
 https://digitaldrummerj.me/series/blogging-with-hugo/
