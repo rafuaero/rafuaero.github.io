@@ -43,7 +43,7 @@ traduzindo: (pelo chatgpt por motivos de preguiça e talvez até com um argument
 
 andreessen também foi ao podcast do [lex fridman](https://www.youtube.com/c/lexfridman), num aparente tour dos bilionários do silício de tentarem fazer sei lá o que, se justificar pelo apoio ao Trump? tentativa de contenção de danos? fazendo os altos salários da equipe de relações públicas valer a pena? 
 
-as entrevistas de andersseen são um show a partem cheio frase patrióticas, cheio dos "america first" e uma tentativa de justificar o imenso acumulo de riqueza e poder da "turma da tech" com coisa do tipo:
+as entrevistas de andersseen são um show a parte, cheio frase patrióticas, cheio dos "america first" e uma tentativa de justificar o imenso acumulo de riqueza e poder da "turma da tech" com coisa do tipo:
 
 > First of all, let me disabuse you of something, if you haven’t already disabused yourself. The view of American C.E.O.s operating as capitalist profit optimizers is just completely wrong.
 
