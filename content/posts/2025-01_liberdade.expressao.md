@@ -16,25 +16,22 @@ nos primeiros segundos do video zucka fala como a midia tradicional (*legacy med
 
 o timing desses anuncios foi bem preciso, aproveitou o ambiante favorável para acabar com uma iniciativa dentro da empresa que gerava muitos custos e nunca funcionou de maneira que agradasse minimamente a todos os *stakeholders* envolvidos.
 
-os detratores do dono da meta argumentam que [zuckengerg desaflora em público](https://spyglass.org/zuckerberg-speech-about-face-book/), que cada vez mais se sente à vontade para mostrar quem realmente é e o que realmente pensa, que se metamorfosea, desde o [nerd reptiliano acuado no congresso](https://img.huffingtonpost.com/asset/5ae03ca81e000043008e38be.png) a um proto bad boy jiu-jutseiro, que  mostra cada vez mais sua verdade face, alguém que não se importa muito com as consequencias do que acontece em suas redes, desde que seus produtos continuem entregando valor para os *shareholders*, e eu acredito nisso, certamente as mudanças foram uma decissão *bussiness oriented* e politicamente consoante com os novos tempos de segundo mandato trump. mas é meio que consenso que zucka nunca teria implementado as iniciativas de checagem de fatos se não tivesse sido obrigado. celebra-se o fim da "cultura woke" e uma nova era de otimismo para os conservadores se anuncia.
+os detratores do dono da meta argumentam que [zuckengerg desaflora em público](https://spyglass.org/zuckerberg-speech-about-face-book/), que cada vez mais se sente à vontade para mostrar quem realmente é e o que realmente pensa, que se metamorfosea, desde o [nerd reptiliano acuado no congresso](https://img.huffingtonpost.com/asset/5ae03ca81e000043008e38be.png) a um proto bad boy jiu-jutseiro, que  mostra cada vez mais sua verdade face, alguém que não se importa muito com as consequencias do que acontece em suas redes, desde que seus produtos continuem entregando valor para os *shareholders*, e eu acredito nisso, certamente as mudanças foram uma decissão *bussiness oriented* e politicamente consoante com os novos tempos de segundo mandato trump. mas é meio que consenso que zucka nunca teria implementado as iniciativas de checagem de fatos se não tivesse sido obrigado. celebra-se o [fim da "cultura woke"](https://www.lemonde.fr/en/opinion/article/2024/11/08/trump-s-return-could-signal-the-end-of-an-identity-based-approach-to-culture-and-society_6732158_23.html) e uma nova [era de otimismo](https://world.hey.com/dhh/mega-a0f62cd4) para os conservadores se anuncia.
  
-contudo há mais sobre essas mudunças na meta acontecerem agora, zucka parece estar com medo do trump, não só ele, mas varios outros bilionários do mundo tech, que historicamente sempre apoiaram mais os democratas e que agora temem serem vítimas de algum tipo de vingança por parte do novo presidente (CEO/tirano ??) dos eua, o que me parece bem impressionante, gostaria de saber as ameças que foram feitas em privado. afinal, um das supostas vantagens de ser um bilionario em uma democracia, é poder se sentir um pouco mais acima da lei que o resto, ou não?
+contudo há mais sobre essas mudanças na meta acontecerem agora, zucka parece estar com medo do trump, não só ele, mas varios outros bilionários do mundo tech, que historicamente sempre apoiaram mais os democratas e que agora temem serem vítimas de algum tipo de vingança por parte do novo presidente (CEO/tirano ??) dos eua, o que me parece bem impressionante, gostaria de saber as ameças que foram feitas em privado. afinal, uma das supostas vantagens de ser um bilionario em uma democracia, é poder se sentir um pouco mais acima da lei que o resto, ou não?
 
-
- M.G Siegler [resume bem a situação](https://spyglass.org/zuckerberg-speech-about-face-book/) em postagem já linkda por aqui anteriormente. alias, para quem gosta de tecnologia, eu recomendo: [https://spyglass.org/](https://spyglass.org/)
+M.G Siegler [resume bem a situação](https://spyglass.org/zuckerberg-speech-about-face-book/) em postagem já linkada por aqui anteriormente. alias, para quem gosta de tecnologia, eu recomendo: [https://spyglass.org/](https://spyglass.org/)
 
 >  That is to say, he's not completely full of shit in his about-face on content moderation and free speech. His own video on the matter kicks off by citing a [speech he gave five years](https://about.fb.com/news/2019/10/mark-zuckerberg-stands-for-voice-and-free-expression/?ref=spyglass.org) ago at Georgetown on such topics – a point which his team has been trumpeting today. It's an effort to make him seem less two-faced, of course. But again, I don't think it's necessarily misleading. It can be both convenient and also true.
 
 > But there are other truths too. Certainly, the timing of all of this is interesting. Which is to say, also undoubtedly not coincidental. He's reversing Meta's course on the eve of the inauguration of a President who has threatened both him personally and his company due to the very issues that Zuckerberg is now backtracking on. Talk about convenient! And this follows a love bombing campaign to prove to the incoming "badass" President that this time, things will be different.
 
 ## o imperio contra-ataca
-zuckenbger fez a postagem fazendo seus anuncios, mas um dia antes [Dana White](https://pt.wikipedia.org/wiki/Dana_White) [foi anunciado como novo membro do board da meta](https://apnews.com/article/meta-facebook-zuckerberg-board-members-dana-white-199436c62c934ebb751b564f874ad2f6), e na sequencia zucka foi entrevistado por [joe rogan](https://www.youtube.com/watch?v=7k1ehaE0bdU), com direito a perolas do tipo que falta "energia masculina" nas empresas. 
-
+um dia antes antes de zucka fazer seu anuncio das mudanças de fack checking, [Dana White](https://pt.wikipedia.org/wiki/Dana_White) [foi anunciado como novo membro do board da meta](https://apnews.com/article/meta-facebook-zuckerberg-board-members-dana-white-199436c62c934ebb751b564f874ad2f6), e na sequencia o dono da meta foi entrevistado por [joe rogan](https://www.youtube.com/watch?v=7k1ehaE0bdU), com direito a perolas do tipo falta "energia masculina" nas empresas. 
 
 ao longo do podcast ele mostra um recentimento com a administração do governo biden e como burocratas começaram a interferir e pressionar a meta por "censurar" mais determinados tipos de conteúdo, "these people from the Biden administration would call up our team and, like, scream at them and curse", ele fala lá pelas tantas. 
 
-um argumento muito parecido pode ser ouvido da boca de marc andreessen, bilonário do vale do silicio e sócio da empresa de Venture Capital a16z, no [podcast matter of opnion](https://www.youtube.com/watch?v=TEGVM6y6lwM)
-, do new york times. o sugestivo título do episódio é: "How Democrats Drove Silicon Valley Into Trump’s Arms".
+um argumento muito parecido pode ser ouvido da boca de marc andreessen, bilonário do vale do silicio e sócio da empresa de Venture Capital a16z, no [podcast matter of opnion](https://www.youtube.com/watch?v=TEGVM6y6lwM), do new york times. o sugestivo título do episódio é: "How Democrats Drove Silicon Valley Into Trump’s Arms".
 
 
 > Then they just came after crypto. Absolutely tried to kill us.
@@ -45,19 +42,9 @@ traduzindo: (pelo chatgpt por motivos de preguiça e talvez até com um argument
 > Então, eles simplesmente começaram a atacar o setor de criptomoedas. Tentaram absolutamente nos destruir.
 > Eles lançaram uma campanha de terror incrível para tentar acabar com as criptomoedas. Depois, começaram a intensificar uma campanha semelhante para tentar acabar com a Inteligência Artificial. Foi aí que percebemos que realmente precisávamos nos envolver na política. O ataque ao setor de criptomoedas foi tão estranho que não sabíamos como reagir. Estávamos apenas esperando que aquilo passasse, mas não passou. Porém, quando ameaçaram fazer o mesmo com a Inteligência Artificial, entendemos que precisávamos nos envolver na política. Então nos vimos diante do que parecia ser a perspectiva absolutamente assustadora de um segundo mandato.
 
+andreessen também foi ao podcast do [lex fridman](https://www.youtube.com/c/lexfridman), num aparente tour dos bilionários do silicío de tentarem fazer sei lá o que, se justificar pelo apoio ao Trump? tentativa de contenção de danos? fazendo os altos salários da equipe de relações públicas valer a pena? 
 
-
-
-## paralelos entre governos democratas e a era PT/Dilma
-Biden foi a Dilma dos EUA?
-
-
-
-
-
-### Andersseen na entrevista do New york times
-> So I would say both, and the unifying thread here is, I believe it’s the children of the elites. The most privileged people in society, the most successful, send their kids to the most politically radical institutions, which teach them how to be America-hating communists.
-
+as entrevistas de andersseen são um show a partem cheio frase patrioticas, cheio dos "america first" e uma tentativa de justificar o imenso acumulo de riqueza e poder da "turma da tech" com coisa do tipo:
 
 > First of all, let me disabuse you of something, if you haven’t already disabused yourself. The view of American C.E.O.s operating as capitalist profit optimizers is just completely wrong.
 
@@ -65,70 +52,44 @@ Biden foi a Dilma dos EUA?
 
 > I would say Goal No. 1 is, “I’m a good person.” “I’m a good person,” is wildly more important than profit margins
 
-#### sobre a postura da administração trump
+quem acredita numa balela dessa?
 
-I actually think that they’re incredibly transparent and the president’s incredibly transparent in what he says. The high-level thing they say with respect to anything involving tech or business is, “We want America to win.” And what that means is: “We want America to be the pre-eminent country in the world. We want America to be the global economic leader. We want America to be the global technology leader. We want America to be the global military leader. We 100 percent want to beat China. We want to make sure that American technology proliferates globally and not Chinese technology. It’s a shame in the past that so many of you guys were against us, because all we wanted was to help you guys win.”
+ele também reclama muito da "cultura woke" e como as universidades foram tomadas por ideologias socialistas e pela extrema esquerda:
 
-#### o que eles realmente querem
-No. 2 is — look, we would like our companies to be able to succeed globally. We think it’s in the best interest of the United States and all Americans for that to happen. Because if it’s not American companies winning globally, it’s Chinese companies winning globally. Even the Americans who hate America the most presumably are not in favor of the Chinese Communist Party winning instead.
+> So I would say both, and the unifying thread here is, I believe it’s the children of the elites. The most privileged people in society, the most successful, send their kids to the most politically radical institutions, which teach them how to be America-hating communists.
+
+na cabeça dele, alunos de pessoas muito ricas estão indo para yale, harvard, cornell, princeton e acabam se tornando comunistas detratores da america (qual américa?). Eu confesso que tenho extrema dificuldade de entender em que universo algo assim seria possível. tudo bem, nunca estive e nunca convivi com alunos, professores e o ambiente dessas universidades, mas garanto que mesmo pelos CAs de ciências sociais das universidades públicas brasileiras isso não é 100% verdade, imagina isso o sendo no centro da nata intelectual do capitalismo mundial. 
+
+a não ser que ser contra as indecentes taxas de concentração de renda que se vê nos eua o torne comunista. parece que não exite meio termo.
 
 
-https://spyglass.org/zuckerberg-speech-about-face-book/
+sobre o segundo mandato da administração trump, andreessen justifica seu apoio:
 
-https://world.hey.com/dhh/the-social-media-censorship-era-is-over-for-now-c28c82f2
+> I actually think that they’re incredibly transparent and the president’s incredibly transparent in what he says. The high-level thing they say with respect to anything involving tech or business is, “We want America to win.” And what that means is: “We want America to be the pre-eminent country in the world. We want America to be the global economic leader. We want America to be the global technology leader. We want America to be the global military leader. We 100 percent want to beat China. We want to make sure that American technology proliferates globally and not Chinese technology. It’s a shame in the past that so many of you guys were against us, because all we wanted was to help you guys win.”
+
+(...)
+
+> No. 2 is — look, we would like our companies to be able to succeed globally. We think it’s in the best interest of the United States and all Americans for that to happen. Because if it’s not American companies winning globally, it’s Chinese companies winning globally. Even the Americans who hate America the most presumably are not in favor of the Chinese Communist Party winning instead.
+
+enfim, ve
+
+
+
+### para ler mais sobre o fim da política de checagem de fatos:
 
 https://www.nexojornal.com.br/expresso/2025/01/08/governo-trump-meta-big-techs-alinhamento
 
 https://www.niemanlab.org/2025/01/zuck-chucks-fact-checkers-to-cosplay-as-elon-musk/
 
-
-*** lembrar do print da teen vogue*** aqui na pasta de imagens 
-
-
-** newsletter meio 10/01
-Não foi um comunicado meramente tecnológico. Foi político. Quando Mark Zuckerberg usou uma de suas próprias plataformas para anunciar que eliminaria os mecanismos de checagem de fatos da Meta, salpicou sua fala de recados nada discretos — tanto de alinhamento a Donald Trump quanto de confrontação a reguladores e autoridades de diversos países.
-
-As Notas de Comunidade que a Meta pretende adotar têm peculiaridades e dinâmicas que podem ser interessantes, conforme revelam alguns estudos recentes — embora haja indícios fortes de que elas sejam insuficientes para conter a desinformação.
-
-Para explicar mais detidamente esse movimento de Zuckerberg e essa ferramenta, a Edição de Sábado apresenta uma reportagem de Sérgio Spagnuolo e Alexandre Orrico, cofundadores do Núcleo Jornalismo, criado para investigar o impacto da tecnologia na vida das pessoas. Esse é o começo de uma parceria em que o Núcleo vai trazer ao Meio, sempre que o mundo digital for notícia, seu jornalismo inovador e analítico — tanto em reportagens premium, como essa, quanto em participações em vídeo
-
-
-
-[[file:imagens/tech_meme_01.png][tech meme 01]]
-
-[[file:imagens/tech_meme_02.png][tech meme 02]]
-
-
-
-https://www.garbageday.email/p/zuckerberg-officially-gives-up
-
 https://www.poder360.com.br/poder-tech/dono-do-telegram-zoa-zuckerberg-sobre-agora-dizer-querer-menos-censura/
 
-[[file:2025-01_carta_aberta_checagem_fatos.org][Carta aberta checagem fatos]]
+https://www.platformer.news/meta-fact-checking-free-speech-surrender/
 
-https://www.platformer.news/meta-fact-checking-free-speech-surrender/?utm_source=www.garbageday.email&utm_medium=referral&utm_campaign=zuckerberg-officially-gives-up
+https://www.404media.co/facebook-deletes-internal-employee-criticism-of-new-board-member-dana-white/
 
-https://www.404media.co/facebook-deletes-internal-employee-criticism-of-new-board-member-dana-white/?utm_source=www.garbageday.email&utm_medium=referral&utm_campaign=zuckerberg-officially-gives-up
+https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/
 
-https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-censorship/?utm_source=www.garbageday.email&utm_medium=referral&utm_campaign=zuckerberg-officially-gives-up
-
-
-
-** do meio de 09/01
-Jonathan Chait: “Trump fez uma curiosa mudança para um tipo de imperialismo performático. Ele usa seu bullying internacional para sua base enquanto
-a agenda política real e concreta de sua presidência consiste em grande parte em favores regulatórios e fiscais para doadores ricos e interesses comerciais —
-prioridades com as quais a maioria de seus eleitores não se importa. Trump entende a necessidade de dramas públicos para entreter a base Make America Great Again”.
-(The Atlantic)
-
-- falas recente Trump
-  - invadir groelandi
-  - tomar de volta canal do panama
-  - rebatizar golfo do mexico de golfo da america
-
-
-
-entrevista do marc andreessen para o podcast Matter of opnion, do New York times
-https://www.youtube.com/watch?v=TEGVM6y6lwM
+entrevista do marc andreessen para o podcast Matter of opnion, do New York times https://www.youtube.com/watch?v=TEGVM6y6lwM
 
 
 [^1]: aqui segue uma transcrição da fala do zuckenberg, que pode ser facilmente traduzido para o portugues, para que se interessar: https://www.techpolicy.press/transcript-mark-zuckerberg-announces-major-changes-to-metas-content-moderation-policies-and-operations/

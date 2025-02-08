@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on costacurta.me</title>
-    <link>https://rafuaero.github.io/tags/blog/</link>
+    <link>http://localhost:1313/tags/blog/</link>
     <description>Recent content in Blog on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Wed, 20 Nov 2024 15:57:56 -0300</lastBuildDate>
-    <atom:link href="https://rafuaero.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Listas - Blogroll</title>
-      <link>https://rafuaero.github.io/outros/blogroll/</link>
+      <link>http://localhost:1313/outros/blogroll/</link>
       <pubDate>Wed, 20 Nov 2024 15:57:56 -0300</pubDate>
-      <guid>https://rafuaero.github.io/outros/blogroll/</guid>
+      <guid>http://localhost:1313/outros/blogroll/</guid>
       <description>Tech, cultura, sociedade Manual do mundo https://manualdousuario.net&#xA;gosto muito, sempre com conteúdo relevante, engajado e crítico. Uma inspiração. Daring Fireball https://daringfireball.net/&#xA;para quem curte o mundo Apple e cultura pop em geral, alguma coisa de política estadunidense. Mas principalmente Apple. um dos principais blogueiros do assundo. Kottke https://kottke.org/&#xA;&amp;ldquo;home of fine hypertext products&amp;rdquo;, assim ele se define. montanhas de links legais sobre cultura, tech, política, arte, etc&amp;hellip; Spyglass https://spyglass.org/&#xA;&amp;ldquo;Insight from afar by M.</description>
     </item>
   </channel>

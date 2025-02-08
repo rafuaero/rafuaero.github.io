@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on costacurta.me</title>
-    <link>https://rafuaero.github.io/tags/linux/</link>
+    <link>http://localhost:1313/tags/linux/</link>
     <description>Recent content in Linux on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Mon, 23 Dec 2024 08:54:17 -0300</lastBuildDate>
-    <atom:link href="https://rafuaero.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>emacs</title>
-      <link>https://rafuaero.github.io/posts/2024-12_emacs/</link>
+      <link>http://localhost:1313/posts/2024-12_emacs/</link>
       <pubDate>Mon, 23 Dec 2024 08:54:17 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2024-12_emacs/</guid>
+      <guid>http://localhost:1313/posts/2024-12_emacs/</guid>
       <description>aproveitei uma curta pausa no litoral da Bahia e a presença de um notebook à minha disposição e fiz o que qualquer um faria e resolvi aprender uma coisa nova.&#xA;depois de alguns anos de hesitação, decidi que era hora de escalar mais um cume do mundo open source: EMACS&#xA;o que o emacs não é nunca havia tentado seriamente aprender a usá-lo por na verdade nunca ter entendido o que é o emacs.</description>
     </item>
     <item>
       <title>configurando hyprland</title>
-      <link>https://rafuaero.github.io/posts/2024-12_configurando_hyprland/</link>
+      <link>http://localhost:1313/posts/2024-12_configurando_hyprland/</link>
       <pubDate>Wed, 04 Dec 2024 08:53:03 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2024-12_configurando_hyprland/</guid>
+      <guid>http://localhost:1313/posts/2024-12_configurando_hyprland/</guid>
       <description>#blogpost #linux #hyprland&#xA;depois de tentar configurar e usar o sway por alguns dias e o qtile por algumas horas, apanhar um monte e desistir, resolvi brincar com o tiling window manager (wm) que &amp;ldquo;all cool kids&amp;rdquo; estão usando; hyprland1&#xA;a instalação no fedora foi bem fácil, já tem no repositório oficial, e em minutos estava com o sistema rodando.&#xA;o hyprland vem somente com o básico do básico para rodar.</description>
     </item>
     <item>
       <title>porque comecei a usar linux</title>
-      <link>https://rafuaero.github.io/posts/2024-12-01_comecei_linux/</link>
+      <link>http://localhost:1313/posts/2024-12-01_comecei_linux/</link>
       <pubDate>Mon, 02 Dec 2024 09:56:55 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2024-12-01_comecei_linux/</guid>
+      <guid>http://localhost:1313/posts/2024-12-01_comecei_linux/</guid>
       <description>era uma vez&amp;hellip; minha primeira aventura com Linux foi há muito tempo, no inicio dos anos 2000, um Red Hat1 que vinha em um cd junto com um livro que era uma calhamaço de páginas e se chamava algo como a bíblia do linux.&#xA;à época não me emocionei muito, mas também não estudei o assunto adequadamente, não entendi o poder o terminal, dos scripts e não estava buscando aprender a programar ou algo assim.</description>
     </item>
     <item>
       <title>Tech nerd: permissões SQL</title>
-      <link>https://rafuaero.github.io/outros/tech/2024-11-24_permisoes_sql/</link>
+      <link>http://localhost:1313/outros/tech/2024-11-24_permisoes_sql/</link>
       <pubDate>Sun, 24 Nov 2024 10:27:29 -0300</pubDate>
-      <guid>https://rafuaero.github.io/outros/tech/2024-11-24_permisoes_sql/</guid>
+      <guid>http://localhost:1313/outros/tech/2024-11-24_permisoes_sql/</guid>
       <description>Permissões SQL Postgres Passando aqui para deixar registrado uma dica rápida.&#xA;Uma das coisas que estava me desanimando a aprender POSTGRESQL era a dificuldade com:&#xA;acessar o banco de dados em primeiro lugar, usando o pgadmin conseguir copiar qualquer arquivo para o banco de dados O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.</description>
     </item>
     <item>
       <title>Apps que eu uso no Linux</title>
-      <link>https://rafuaero.github.io/posts/linux_apps/</link>
+      <link>http://localhost:1313/posts/linux_apps/</link>
       <pubDate>Wed, 20 Nov 2024 15:38:52 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/linux_apps/</guid>
+      <guid>http://localhost:1313/posts/linux_apps/</guid>
       <description>Ainda pretendo escrever um post falando de porque comecei a usar linux, mas, por agora, vamos ao meu setup atual:&#xA;Estou usando o Fedora, com que estou muito satisfeito. Bastante estável e funciona bem com meu hardware atual. Por enquanto estou conseguindo fugir do mal do distro hopping.&#xA;No ambiente gráfico comecei com o KDE, mas depois mudei pro gnome. Agora estou variando entre os dois. Dependendo do meu humor no dia, tem coisas que gosto mais em um e coisas que gosto mais no outro.</description>
     </item>
   </channel>
