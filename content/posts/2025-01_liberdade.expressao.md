@@ -1,8 +1,7 @@
 +++
 title = 'liberdade de expressão e os bilionários do vale'
 date = 2025-02-08T08:40:14-03:00
-draft = true
-tags = []
+tags = ["meta", "redes sociais", "politica", "eua"]
 +++
 
 
@@ -71,12 +70,19 @@ sobre o segundo mandato da administração trump, andreessen justifica seu apoio
 
 > No. 2 is — look, we would like our companies to be able to succeed globally. We think it’s in the best interest of the United States and all Americans for that to happen. Because if it’s not American companies winning globally, it’s Chinese companies winning globally. Even the Americans who hate America the most presumably are not in favor of the Chinese Communist Party winning instead.
 
-enfim, ve
+um discurso que na superfície parece bem nacionalista, mas que para mim soa como andersseen se pondo como porta voz dos principais players do vale do silicio, cujos anseios são que o governo eua os ajude em que suas empresas possam contiunar crescendo e se expandindo indefidamente, mas que sabem que sem um apoio institucional, crescer mundo a fora é bem mais dificil, pois a hostilidade para com as empresas americanas cresce, hostilidade em muita parte liderada pela união europeia.
 
+> And as you know, many foreign governments are now much more hostile to American tech than they were 20 years ago. We face enormous challenges in Europe. Enormous challenges even in the U.K. There’s just these extremely draconian anti-tech, anti-business, anti-American policies.
 
+esse discurso do vale do silicio, para mim parece conflitante com os interesses dos eleitores do trump, quem realmente o colocou na presidência duas vezes, que é o estadunidense médio, cujos pais viveram a promessa do "american dream", do trabalhe duro e será recompensado. os filhos da geração boomer.
+
+a classe média dos eua, e não só lá, em todo o mundo ocidental, está cada vez mais achatada, cada vez mais frustrada. os custos de moradia, alimentos e de vida de modo geral cada mais caros. um trabalhador nos anos 1960-1970 podia passar a vida trabalhando no chão de fábrica e ainda assim comprar um casa, um carro, sustentar uma familia com esposa e muitos filhos. isso hoje é impossível. 
+
+para mim é bem claro que trump nem os oligarcas da california [^3] tem a solução para isso, na verdade trump e toda a "velha economia" industrial são os responsáveis, eles que tiraram as fábricas de território estadunidense e levaram para china, america latina e qualquer outro lugar onde a mão de obra fosse mais barata. a globalização foi boa para eles, e as consequencias vieram a conta gotas e num período pré redes sociais, os efeitos demoraram para chegar e nem todo mundo consegue ligar em sequencia os fatos, principalmente esse americano médio, patriota e ignorante do que acontece no resto do mundo.
+
+a ver como os acontecimentos vão se desdobrar. 
 
 ### para ler mais sobre o fim da política de checagem de fatos:
-
 https://www.nexojornal.com.br/expresso/2025/01/08/governo-trump-meta-big-techs-alinhamento
 
 https://www.niemanlab.org/2025/01/zuck-chucks-fact-checkers-to-cosplay-as-elon-musk/
@@ -97,3 +103,4 @@ entrevista do marc andreessen para o podcast Matter of opnion, do New York times
 
 [^2]: o *termo legacy* media aqui me soa como uma coisa depreciativa, a primeira das alfinetadas do camarada zucka no vídeo. no mundo da tecnologia, o termo legacy faz referência a coisas do passado, ultrapassadas e as que às vezes são  um estorvo, pois geralmente são tecnoligias que devem receber suporte ainda, pois há grande base de usuários, atrasando a evolução e aumentando custos. 
 
+[^3]: tem gente que discorda do termo oligarquia para o que acontece no vale do silicio, mas não sei termo melhor no momento.
