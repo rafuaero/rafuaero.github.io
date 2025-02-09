@@ -98,7 +98,7 @@ https://www.404media.co/facebook-is-censoring-404-media-stories-about-facebooks-
 entrevista do marc andreessen para o podcast Matter of opnion, do New York times https://www.youtube.com/watch?v=TEGVM6y6lwM
 
 
-[^1]: aqui segue uma transcrição da fala do zuckerberg, que pode ser facilmente traduzido para o português, para que se interessar: https://www.techpolicy.press/transcript-mark-zuckerberg-announces-major-changes-to-metas-content-moderation-policies-and-operations/
+[^1]: aqui segue uma transcrição da fala do zuckerberg, que pode ser facilmente traduzido para o português, para quem se interessar: https://www.techpolicy.press/transcript-mark-zuckerberg-announces-major-changes-to-metas-content-moderation-policies-and-operations/
 
 
 [^2]: o *termo legacy* media aqui me soa como uma coisa depreciativa, a primeira das alfinetadas do camarada zucka no vídeo. no mundo da tecnologia, o termo legacy faz referência a coisas do passado, ultrapassadas e as que às vezes são  um estorvo, pois geralmente são tecnologias que devem receber suporte ainda, pois há grande base de usuários, atrasando a evolução e aumentando custos. 
