@@ -5,7 +5,7 @@ tags = ["meta", "redes sociais", "politica", "eua"]
 +++
 
 
-em 07 de janeiro de 2025, mark zuckerberg anunciou mudanças nas políticas de moderação de conteúdo nas plataformas controladas pela meta, facebook, instagram e threads; o whatsapp é uma coisa a parte nessa questão.
+em 07 de janeiro de 2025, mark zuckerberg anunciou mudanças nas políticas de moderação de conteúdo nas plataformas controladas pela meta: facebook, instagram e threads; o whatsapp é uma coisa a parte nessa questão.
 
 a postagem pode ser vista aqui: [more speech and fewer mistakes](https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/) [^1], nela zuckerberg (zucka) fala sobre o que considera erros do passado, no exagero de moderação de discursos dentro de suas plataformas e das iniciativas de diminuir (acabar??) com os investimentos em checagem de fatos,  a liberdade de expressão precisava voltar às suas plataformas. não custa lembrar que o anuncio foi postado a pouco menos de 2 semanas antes da posse de trump.
 
