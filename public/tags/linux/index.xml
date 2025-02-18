@@ -6,8 +6,15 @@
     <description>Recent content in Linux on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 23 Dec 2024 08:54:17 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 09:49:08 -0300</lastBuildDate>
     <atom:link href="https://rafuaero.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>adicionando diretórios à variável PATH</title>
+      <link>https://rafuaero.github.io/posts/2025-02_path_add/</link>
+      <pubDate>Tue, 18 Feb 2025 09:49:08 -0300</pubDate>
+      <guid>https://rafuaero.github.io/posts/2025-02_path_add/</guid>
+      <description>excelente dica de julia evans sobre os caminhos a serem percorridos para se adicionar um diretório à variável PATH&#xA;It’s something that feels “obvious” to me since I’ve been using the terminal for a long time, but when I searched for instructions for how to do it, I actually couldn’t find something that explained all of the steps.&#xA;ela explica os passos necessários com detalhes e exemplos.</description>
+    </item>
     <item>
       <title>emacs</title>
       <link>https://rafuaero.github.io/posts/2024-12_emacs/</link>

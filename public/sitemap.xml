@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rafuaero.github.io/posts/2025-02_path_add/</loc>
+    <lastmod>2025-02-18T09:49:08-03:00</lastmod>
+  </url><url>
     <loc>https://rafuaero.github.io/</loc>
-    <lastmod>2025-02-08T08:40:14-03:00</lastmod>
+    <lastmod>2025-02-18T09:49:08-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/dicas/</loc>
+    <lastmod>2025-02-18T09:49:08-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/linux/</loc>
+    <lastmod>2025-02-18T09:49:08-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/macos/</loc>
+    <lastmod>2025-02-18T09:49:08-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/posts/</loc>
+    <lastmod>2025-02-18T09:49:08-03:00</lastmod>
+  </url><url>
+    <loc>https://rafuaero.github.io/tags/</loc>
+    <lastmod>2025-02-18T09:49:08-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/tags/eua/</loc>
     <lastmod>2025-02-08T08:40:14-03:00</lastmod>
@@ -17,13 +35,7 @@
     <loc>https://rafuaero.github.io/tags/politica/</loc>
     <lastmod>2025-02-08T08:40:14-03:00</lastmod>
   </url><url>
-    <loc>https://rafuaero.github.io/posts/</loc>
-    <lastmod>2025-02-08T08:40:14-03:00</lastmod>
-  </url><url>
     <loc>https://rafuaero.github.io/tags/redes-sociais/</loc>
-    <lastmod>2025-02-08T08:40:14-03:00</lastmod>
-  </url><url>
-    <loc>https://rafuaero.github.io/tags/</loc>
     <lastmod>2025-02-08T08:40:14-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/tags/design/</loc>
@@ -60,9 +72,6 @@
     <lastmod>2024-12-23T08:54:17-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/tags/emacs/</loc>
-    <lastmod>2024-12-23T08:54:17-03:00</lastmod>
-  </url><url>
-    <loc>https://rafuaero.github.io/tags/linux/</loc>
     <lastmod>2024-12-23T08:54:17-03:00</lastmod>
   </url><url>
     <loc>https://rafuaero.github.io/tags/org-mode/</loc>
