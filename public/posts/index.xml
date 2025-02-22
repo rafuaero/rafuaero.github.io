@@ -6,8 +6,15 @@
     <description>Recent content in Posts on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 18 Feb 2025 09:49:08 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 08:44:18 -0300</lastBuildDate>
     <atom:link href="https://rafuaero.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>resquícios da internet medieval</title>
+      <link>https://rafuaero.github.io/posts/2025-02_internet_medieval/</link>
+      <pubDate>Sat, 22 Feb 2025 08:44:18 -0300</pubDate>
+      <guid>https://rafuaero.github.io/posts/2025-02_internet_medieval/</guid>
+      <description>navegando pelos rincões da internet, não lembro mais onde #desculpaqualquercoisa, vi a indicação do &amp;ldquo;Beej&amp;rsquo;s Guide to Git&amp;rdquo;, como sou um neófito na arte do controle de versão e git e minha solução para resolver um conflito de commit geralmente é apagar o repositório local e clonar a última versão no github me interessei pelo guia. um dia lerei o, juro. já salvei o link par ao guia em todos os diversos lugares que uso para salvar links e que idealmente deveria ser um local só mas não é pq o mundo do software é um lugar de muitas escolhas e possibilidades.</description>
+    </item>
     <item>
       <title>adicionando diretórios à variável PATH</title>
       <link>https://rafuaero.github.io/posts/2025-02_path_add/</link>
