@@ -1,5 +1,5 @@
 +++
-title = 'liberdade de expressão e a hipocrisia - editorial WP situtaion'
+title = 'liberdade de expressão e a hipocrisia - editorial WP situation'
 date = 2025-03-01T10:35:12-03:00
 tags = ['liberdade expressao', 'jeff bezos', 'whashington post', 'jornalismo']
 +++
