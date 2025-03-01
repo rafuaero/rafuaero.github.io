@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nostalgia on costacurta.me</title>
-    <link>http://localhost:1313/tags/nostalgia/</link>
+    <link>https://rafuaero.github.io/tags/nostalgia/</link>
     <description>Recent content in Nostalgia on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 22 Feb 2025 08:44:18 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rafuaero.github.io/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>resquícios da internet medieval</title>
-      <link>http://localhost:1313/posts/2025-02_internet_medieval/</link>
+      <link>https://rafuaero.github.io/posts/2025-02_internet_medieval/</link>
       <pubDate>Sat, 22 Feb 2025 08:44:18 -0300</pubDate>
-      <guid>http://localhost:1313/posts/2025-02_internet_medieval/</guid>
+      <guid>https://rafuaero.github.io/posts/2025-02_internet_medieval/</guid>
       <description>navegando pelos rincões da internet, não lembro mais onde #desculpaqualquercoisa, vi a indicação do &amp;ldquo;Beej&amp;rsquo;s Guide to Git&amp;rdquo;, como sou um neófito na arte do controle de versão e git e minha solução para resolver um conflito de commit geralmente é apagar o repositório local e clonar a última versão no github me interessei pelo guia. um dia lerei o, juro. já salvei o link par ao guia em todos os diversos lugares que uso para salvar links e que idealmente deveria ser um local só mas não é pq o mundo do software é um lugar de muitas escolhas e possibilidades.</description>
     </item>
     <item>
       <title>nokia design archive</title>
-      <link>http://localhost:1313/outros/2025-01_nokia_design_archive/</link>
+      <link>https://rafuaero.github.io/outros/2025-01_nokia_design_archive/</link>
       <pubDate>Thu, 16 Jan 2025 09:08:26 -0300</pubDate>
-      <guid>http://localhost:1313/outros/2025-01_nokia_design_archive/</guid>
+      <guid>https://rafuaero.github.io/outros/2025-01_nokia_design_archive/</guid>
       <description>Nokia design archives vi no manual do usúario.&#xA;nokia design archive&#xA;site com muita informação sobre os processos de design dentro da nokia, desde a criação de conceitos, prototipagem e lançamento de aparelhos.&#xA;sempre fui muito fã dos celulares da nokia. nunca vou esquecer do meu 6600 o primeiro celular que eu tive com câmera embutida, e um sistema operacional que o tornava um proto smartphone alguns anos antes do iphone, mais ou menos à mesma época que o blackberry estava dominando o &amp;ldquo;mundo corporativo&amp;rdquo;.</description>
     </item>
   </channel>

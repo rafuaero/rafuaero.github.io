@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Redes Sociais on costacurta.me</title>
-    <link>http://localhost:1313/tags/redes-sociais/</link>
+    <link>https://rafuaero.github.io/tags/redes-sociais/</link>
     <description>Recent content in Redes Sociais on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 08 Feb 2025 08:40:14 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/redes-sociais/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rafuaero.github.io/tags/redes-sociais/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>liberdade de expressão e os bilionários do vale</title>
-      <link>http://localhost:1313/posts/2025-01_liberdade.expressao/</link>
+      <link>https://rafuaero.github.io/posts/2025-01_liberdade.expressao/</link>
       <pubDate>Sat, 08 Feb 2025 08:40:14 -0300</pubDate>
-      <guid>http://localhost:1313/posts/2025-01_liberdade.expressao/</guid>
+      <guid>https://rafuaero.github.io/posts/2025-01_liberdade.expressao/</guid>
       <description>em 07 de janeiro de 2025, mark zuckerberg anunciou mudanças nas políticas de moderação de conteúdo nas plataformas controladas pela meta: facebook, instagram e threads; o whatsapp é uma coisa a parte nessa questão.&#xA;a postagem pode ser vista aqui: more speech and fewer mistakes 1, nela zuckerberg (zucka) fala sobre o que considera erros do passado, no exagero de moderação de discursos dentro de suas plataformas e das iniciativas de diminuir (acabar?</description>
     </item>
   </channel>

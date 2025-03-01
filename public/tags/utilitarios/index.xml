@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Utilitarios on costacurta.me</title>
-    <link>http://localhost:1313/tags/utilitarios/</link>
+    <link>https://rafuaero.github.io/tags/utilitarios/</link>
     <description>Recent content in Utilitarios on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 28 Dec 2024 10:21:54 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/utilitarios/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rafuaero.github.io/tags/utilitarios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>flameshot</title>
-      <link>http://localhost:1313/outros/2024-12_flameshot/</link>
+      <link>https://rafuaero.github.io/outros/2024-12_flameshot/</link>
       <pubDate>Sat, 28 Dec 2024 10:21:54 -0300</pubDate>
-      <guid>http://localhost:1313/outros/2024-12_flameshot/</guid>
+      <guid>https://rafuaero.github.io/outros/2024-12_flameshot/</guid>
       <description>flameshot #dica de app&#xA;recentemente precisei fazer uma anotação numa captura de tela e para minha surpresa descobri que não tinha nenhum app definido para fazer esse tipo de serviço no Fedora.&#xA;Tentei a ferramenta padrão de captura de tela do gnome, mas essa é supersimples e não faz nada além de apenas capturar a imagem.&#xA;uma pesquisa rápida na internet e achei apenas um chamado Annotator que parece bom, mas não consegui instalar de jeito nenhum :-/ ele parece ter sido feito para ser usado com o elementary OS.</description>
     </item>
   </channel>
