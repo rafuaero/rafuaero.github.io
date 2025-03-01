@@ -22,6 +22,8 @@ destaques são meus
  
 > I’m confident that free markets and personal liberties are right for America. I also believe these viewpoints are underserved in the current market of ideas and news opinion. I’m excited for us together to fill that void. 
 
+"i suggested him..." kkkkkkk
+
 o chefão mandou, agora as opniões institucionais do Washington Posts são do jeito que eu quiser, e apenas com eu quiser.
 
 isso num anucio falando de liberdades... ah, hipocrisia.
