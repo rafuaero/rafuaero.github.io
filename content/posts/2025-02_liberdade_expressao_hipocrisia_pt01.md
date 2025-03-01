@@ -37,3 +37,21 @@ como [notado por john gruber](https://daringfireball.net/linked/2025/02/28/what-
 lembrando que há cerca de 2 meses já houve o [caso de censura de uma charge](https://anntelnaes.substack.com/p/why-im-quitting-the-washington-post) no mesmo whashing post, liberdade que chama.
 
 
+---
+
+update:
+
+veja como o anúncio de bezos foi publicado por aqui:
+
+pesquisando por "washington post opnião"
+
+- [G1](https://g1.globo.com/economia/midia-e-marketing/noticia/2025/02/26/editor-de-opiniao-do-washington-post-deixa-o-cargo.ghtml) : Jeff Bezos muda linha editorial e editor de opini�o do Washington Post deixa o cargo
+- [carta capital](https://www.cartacapital.com.br/mundo/bezos-anuncia-que-editoriais-do-the-washington-post-vao-defender-liberdades-pessoais-e-o-livre-mercado/) : Bezos anuncia que editoriais do The Washington Post vão defender liberdades pessoais e o livre mercado 
+- [exame](https://exame.com/mundo/bezos-anuncia-restricoes-em-editoriais-do-jornal-the-washington-post/) : Bezos anuncia restrições em editoriais do jornal The Washington Post
+    - exame falando em "restrições" e a carta capital não...
+- [brazil journal](https://braziljournal.com/bezos-dita-novas-regras-para-a-pagina-de-opiniao-do-washington-post/) : Bezos dita novas regras para a página de opinião do Washington Post 
+    - brazil journal também usando um termo com conotação de imposição
+- [rtp](https://www.rtp.pt/noticias/mundo/patrao-bezos-impoe-mudanca-significativa-no-washington-post_n1637361) : Patrão Bezos impõe "mudança significativa" no Washington Post 
+    - os portugueses meteram o título mais 'brabo' até agora. também o unico jornal quem não injetou texto extra quando eu copiei o título da matéria. carta capital foi pior...  
+
+
