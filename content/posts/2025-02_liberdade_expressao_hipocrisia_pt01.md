@@ -1,7 +1,7 @@
 +++
 title = 'liberdade de expressão e a hipocrisia - editorial WP situtaion'
 date = 2025-03-01T10:35:12-03:00
-tags = ['liberdade expressão', 'jeff bezos', 'whashington post', 'jornalismo']
+tags = ['liberdade expressao', 'jeff bezos', 'whashington post', 'jornalismo']
 +++
 
 jeff bezos em um anúncio no x : https://x.com/JeffBezos/status/1894757287052362088
