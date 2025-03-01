@@ -24,7 +24,7 @@ destaques são meus
 
 "i suggested him..." kkkkkkk
 
-o chefão mandou, agora as opniões institucionais do Washington Posts são do jeito que eu quiser, e apenas com eu quiser.
+o chefão mandou, agora as opniões institucionais do washington post são do jeito que ele quiser e apenas como ele quiser.
 
 isso num anucio falando de liberdades... ah, hipocrisia.
 
