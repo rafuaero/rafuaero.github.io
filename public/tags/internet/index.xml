@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internet on costacurta.me</title>
-    <link>https://rafuaero.github.io/tags/internet/</link>
+    <link>http://localhost:1313/tags/internet/</link>
     <description>Recent content in Internet on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 22 Feb 2025 08:44:18 -0300</lastBuildDate>
-    <atom:link href="https://rafuaero.github.io/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>resquícios da internet medieval</title>
-      <link>https://rafuaero.github.io/posts/2025-02_internet_medieval/</link>
+      <link>http://localhost:1313/posts/2025-02_internet_medieval/</link>
       <pubDate>Sat, 22 Feb 2025 08:44:18 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2025-02_internet_medieval/</guid>
+      <guid>http://localhost:1313/posts/2025-02_internet_medieval/</guid>
       <description>&lt;p&gt;navegando pelos rincões da internet, não lembro mais onde #desculpaqualquercoisa, vi a indicação do &lt;a href=&#34;https://beej.us/guide/bggit/&#34;&gt;&amp;ldquo;Beej&amp;rsquo;s Guide to Git&amp;rdquo;&lt;/a&gt;, como sou um neófito na arte do controle de versão e git e minha solução para resolver um conflito de commit geralmente é apagar o repositório local e clonar a última versão no github me interessei pelo guia. um dia lerei o, juro. já salvei o link par ao guia em todos os diversos lugares que uso para salvar links e que idealmente deveria ser um local só mas não é pq o mundo do software é um lugar de muitas escolhas e possibilidades. divago, voltando ao assunto principal.&lt;/p&gt;</description>
     </item>
   </channel>

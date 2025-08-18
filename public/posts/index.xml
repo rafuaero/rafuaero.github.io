@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on costacurta.me</title>
-    <link>https://rafuaero.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 01 Mar 2025 10:35:12 -0300</lastBuildDate>
-    <atom:link href="https://rafuaero.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>liberdade de expressão e a hipocrisia - editorial WP situation</title>
-      <link>https://rafuaero.github.io/posts/2025-02_liberdade_expressao_hipocrisia_pt01/</link>
+      <link>http://localhost:1313/posts/2025-02_liberdade_expressao_hipocrisia_pt01/</link>
       <pubDate>Sat, 01 Mar 2025 10:35:12 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2025-02_liberdade_expressao_hipocrisia_pt01/</guid>
+      <guid>http://localhost:1313/posts/2025-02_liberdade_expressao_hipocrisia_pt01/</guid>
       <description>&lt;p&gt;jeff bezos em um anúncio no x : &lt;a href=&#34;https://x.com/JeffBezos/status/1894757287052362088&#34;&gt;https://x.com/JeffBezos/status/1894757287052362088&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;destaques são meus&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I shared this note with the Washington Post team this morning:&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I’m writing to let you know about a change coming to our opinion pages.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We are going to be writing every day in support and defense of two pillars: personal liberties and free markets. We’ll cover other topics too of course, but viewpoints opposing those pillars will be left to be published by others.&lt;/p&gt;</description>
     </item>
     <item>
       <title>resquícios da internet medieval</title>
-      <link>https://rafuaero.github.io/posts/2025-02_internet_medieval/</link>
+      <link>http://localhost:1313/posts/2025-02_internet_medieval/</link>
       <pubDate>Sat, 22 Feb 2025 08:44:18 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2025-02_internet_medieval/</guid>
+      <guid>http://localhost:1313/posts/2025-02_internet_medieval/</guid>
       <description>&lt;p&gt;navegando pelos rincões da internet, não lembro mais onde #desculpaqualquercoisa, vi a indicação do &lt;a href=&#34;https://beej.us/guide/bggit/&#34;&gt;&amp;ldquo;Beej&amp;rsquo;s Guide to Git&amp;rdquo;&lt;/a&gt;, como sou um neófito na arte do controle de versão e git e minha solução para resolver um conflito de commit geralmente é apagar o repositório local e clonar a última versão no github me interessei pelo guia. um dia lerei o, juro. já salvei o link par ao guia em todos os diversos lugares que uso para salvar links e que idealmente deveria ser um local só mas não é pq o mundo do software é um lugar de muitas escolhas e possibilidades. divago, voltando ao assunto principal.&lt;/p&gt;</description>
     </item>
     <item>
       <title>adicionando diretórios à variável PATH</title>
-      <link>https://rafuaero.github.io/posts/2025-02_path_add/</link>
+      <link>http://localhost:1313/posts/2025-02_path_add/</link>
       <pubDate>Tue, 18 Feb 2025 09:49:08 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2025-02_path_add/</guid>
+      <guid>http://localhost:1313/posts/2025-02_path_add/</guid>
       <description>&lt;p&gt;excelente dica de &lt;a href=&#34;https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/&#34;&gt;julia evans&lt;/a&gt; sobre os caminhos a serem percorridos para se adicionar um diretório à variável PATH&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;It’s something that feels “obvious” to me since I’ve been using the terminal for a long time, but when I searched for instructions for how to do it, I actually couldn’t find something that explained all of the steps.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;ela explica os passos necessários com detalhes e exemplos.&lt;/p&gt;</description>
     </item>
     <item>
       <title>liberdade de expressão e os bilionários do vale</title>
-      <link>https://rafuaero.github.io/posts/2025-01_liberdade.expressao/</link>
+      <link>http://localhost:1313/posts/2025-01_liberdade.expressao/</link>
       <pubDate>Sat, 08 Feb 2025 08:40:14 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2025-01_liberdade.expressao/</guid>
+      <guid>http://localhost:1313/posts/2025-01_liberdade.expressao/</guid>
       <description>&lt;p&gt;em 07 de janeiro de 2025, mark zuckerberg anunciou mudanças nas políticas de moderação de conteúdo nas plataformas controladas pela meta: facebook, instagram e threads; o whatsapp é uma coisa a parte nessa questão.&lt;/p&gt;&#xA;&lt;p&gt;a postagem pode ser vista aqui: &lt;a href=&#34;https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/&#34;&gt;more speech and fewer mistakes&lt;/a&gt; &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, nela zuckerberg (zucka) fala sobre o que considera erros do passado, no exagero de moderação de discursos dentro de suas plataformas e das iniciativas de diminuir (acabar??) com os investimentos em checagem de fatos,  a liberdade de expressão precisava voltar às suas plataformas. não custa lembrar que o anuncio foi postado a pouco menos de 2 semanas antes da posse de trump.&lt;/p&gt;</description>
     </item>
     <item>
       <title>emacs</title>
-      <link>https://rafuaero.github.io/posts/2024-12_emacs/</link>
+      <link>http://localhost:1313/posts/2024-12_emacs/</link>
       <pubDate>Mon, 23 Dec 2024 08:54:17 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2024-12_emacs/</guid>
+      <guid>http://localhost:1313/posts/2024-12_emacs/</guid>
       <description>&lt;p&gt;aproveitei uma curta pausa no litoral da Bahia e a presença de um notebook à minha disposição e fiz o que qualquer um faria e resolvi aprender uma coisa nova.&lt;/p&gt;&#xA;&lt;p&gt;depois de alguns anos de hesitação, decidi que era hora de escalar mais um cume do mundo open source: &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34;&gt;EMACS&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;o-que-o-emacs-não-é&#34;&gt;o que o emacs não é&lt;/h2&gt;&#xA;&lt;p&gt;nunca havia tentado seriamente aprender a usá-lo por na verdade nunca ter entendido o que é o emacs. e acho que é isso, antes de aprender a usar, você tem que entender o que ele é. e ja começo dizendo que ele não é apenas um editor de texto, nem um concorrente do &lt;a href=&#34;https://www.vim.org/&#34;&gt;vim&lt;/a&gt; e seus &lt;a href=&#34;https://neovim.io/&#34;&gt;sucessores&lt;/a&gt; (e &lt;a href=&#34;https://en.wikipedia.org/wiki/Vi_(text_editor)&#34;&gt;predecessores&lt;/a&gt; também).&lt;/p&gt;</description>
     </item>
     <item>
       <title>configurando hyprland</title>
-      <link>https://rafuaero.github.io/posts/2024-12_configurando_hyprland/</link>
+      <link>http://localhost:1313/posts/2024-12_configurando_hyprland/</link>
       <pubDate>Wed, 04 Dec 2024 08:53:03 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2024-12_configurando_hyprland/</guid>
+      <guid>http://localhost:1313/posts/2024-12_configurando_hyprland/</guid>
       <description>&lt;p&gt;#blogpost #linux #hyprland&lt;/p&gt;&#xA;&lt;p&gt;depois de tentar configurar e usar o &lt;a href=&#34;https://swaywm.org/&#34;&gt;sway&lt;/a&gt; por alguns dias e o &lt;a href=&#34;https://qtile.org/&#34;&gt;qtile&lt;/a&gt; por algumas horas, apanhar um monte e desistir, resolvi brincar com o &lt;a href=&#34;https://en.wikipedia.org/wiki/Tiling_window_manager&#34;&gt;tiling window&lt;/a&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=xWIDvnNFl5I&#34;&gt;manager&lt;/a&gt; (wm) que &amp;ldquo;all cool kids&amp;rdquo; estão usando; &lt;a href=&#34;https://hyprland.org/&#34;&gt;hyprland&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;p&gt;a instalação no fedora foi bem fácil, já tem no repositório oficial,  e em minutos estava com o sistema rodando.&lt;/p&gt;&#xA;&lt;p&gt;o hyprland vem somente com o básico do básico para rodar. na minha primeira incursão consegui usar apenas o terminal e o comando para sair do hyprland, cujas teclas de atalho aparecem numa mensagem inicial.&lt;/p&gt;</description>
     </item>
     <item>
       <title>porque comecei a usar linux</title>
-      <link>https://rafuaero.github.io/posts/2024-12-01_comecei_linux/</link>
+      <link>http://localhost:1313/posts/2024-12-01_comecei_linux/</link>
       <pubDate>Mon, 02 Dec 2024 09:56:55 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2024-12-01_comecei_linux/</guid>
+      <guid>http://localhost:1313/posts/2024-12-01_comecei_linux/</guid>
       <description>&lt;h3 id=&#34;era-uma-vez&#34;&gt;era uma vez&amp;hellip;&lt;/h3&gt;&#xA;&lt;p&gt;minha primeira aventura com Linux foi há muito tempo, no inicio dos anos 2000, um &lt;a href=&#34;https://www.redhat.com/pt-br&#34;&gt;Red Hat&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; que vinha em um cd junto com um livro que era uma calhamaço de páginas e se chamava algo como a bíblia do linux.&lt;/p&gt;&#xA;&lt;p&gt;à época não me emocionei muito, mas também não estudei o assunto adequadamente, não entendi o poder o terminal, dos scripts e não estava buscando aprender a programar ou algo assim. Era o começo da internet, não havia tanto conteúdo ainda, acho que nem havia youtube e para tudo o que havia a aprender e ideias sobre o que havia para fazer eu deveria buscar naquele livro, acabei perdendo interesse rapidamente.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apps que eu uso no Linux</title>
-      <link>https://rafuaero.github.io/posts/linux_apps/</link>
+      <link>http://localhost:1313/posts/linux_apps/</link>
       <pubDate>Wed, 20 Nov 2024 15:38:52 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/linux_apps/</guid>
+      <guid>http://localhost:1313/posts/linux_apps/</guid>
       <description>&lt;p&gt;Ainda pretendo escrever um post falando de porque comecei a usar linux, mas, por agora, vamos ao meu setup atual:&lt;/p&gt;&#xA;&lt;p&gt;Estou usando o &lt;a href=&#34;https://fedoraproject.org/workstation/&#34;&gt;Fedora&lt;/a&gt;, com que estou muito satisfeito. Bastante estável e funciona bem com meu hardware atual. Por enquanto estou conseguindo fugir do mal do &lt;a href=&#34;https://www.google.com/search?q=distro+hopping&#34;&gt;distro hopping&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;No ambiente gráfico comecei com o &lt;a href=&#34;https://kde.org/pt-br/&#34;&gt;KDE&lt;/a&gt;, mas depois mudei pro &lt;a href=&#34;https://www.gnome.org/&#34;&gt;gnome&lt;/a&gt;. Agora estou variando entre os dois. Dependendo do meu humor no dia, tem coisas que gosto mais em um e coisas que gosto mais no outro.. Instalei o &lt;a href=&#34;https://swaywm.org/&#34;&gt;Sway&lt;/a&gt; porque queria conhecer a experiência de uma &lt;a href=&#34;https://www.youtube.com/watch?v=xWIDvnNFl5I&#34;&gt;tilling window&lt;/a&gt;, mas logo percebi que esse tipo de desktop exige muita configuração e &lt;a href=&#34;https://www.google.com/search?q=linux+ricing&#34;&gt;ricing&lt;/a&gt; para o negócio ficar bom, sem tempo para isso agora, talvez vá levando como projeto paralelo. o KDE e Gnome funcionam muito bem &amp;ldquo;out of the box&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>configurando o Hugo CMS</title>
-      <link>https://rafuaero.github.io/posts/2024-11-14_config_hugo/</link>
+      <link>http://localhost:1313/posts/2024-11-14_config_hugo/</link>
       <pubDate>Thu, 14 Nov 2024 20:18:34 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2024-11-14_config_hugo/</guid>
+      <guid>http://localhost:1313/posts/2024-11-14_config_hugo/</guid>
       <description>&lt;h2 id=&#34;configurando-um-site-em-hugo&#34;&gt;configurando um site em Hugo&lt;/h2&gt;&#xA;&lt;p&gt;Este post é para documentar o processo de configurar este sítio usando o gerenciador de sites estáticos &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt;  e hospedá-lo no github.&lt;/p&gt;&#xA;&lt;p&gt;Vamos ver como as coisas saem.&lt;/p&gt;&#xA;&lt;p&gt;Escolhi hospedar no github porque eles oferecem uma versão gratuita de hospedagem já integrada a um repositório.&lt;/p&gt;&#xA;&lt;p&gt;Escolhi o Hugo, porque me interessei pelo desafio, coisa de nerd, de configurar e aprender a usar mais um sistema, porque não?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Primeiro post</title>
-      <link>https://rafuaero.github.io/posts/primeiro/</link>
+      <link>http://localhost:1313/posts/primeiro/</link>
       <pubDate>Thu, 14 Nov 2024 19:44:47 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/primeiro/</guid>
+      <guid>http://localhost:1313/posts/primeiro/</guid>
       <description>&lt;h2 id=&#34;começando-de-novo-por-aqui&#34;&gt;começando de novo por aqui&lt;/h2&gt;&#xA;&lt;p&gt;primeiro post&lt;/p&gt;</description>
     </item>
   </channel>

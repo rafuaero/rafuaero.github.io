@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeff Bezos on costacurta.me</title>
-    <link>https://rafuaero.github.io/tags/jeff-bezos/</link>
+    <link>http://localhost:1313/tags/jeff-bezos/</link>
     <description>Recent content in Jeff Bezos on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 01 Mar 2025 10:35:12 -0300</lastBuildDate>
-    <atom:link href="https://rafuaero.github.io/tags/jeff-bezos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/jeff-bezos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>liberdade de expressão e a hipocrisia - editorial WP situation</title>
-      <link>https://rafuaero.github.io/posts/2025-02_liberdade_expressao_hipocrisia_pt01/</link>
+      <link>http://localhost:1313/posts/2025-02_liberdade_expressao_hipocrisia_pt01/</link>
       <pubDate>Sat, 01 Mar 2025 10:35:12 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/2025-02_liberdade_expressao_hipocrisia_pt01/</guid>
+      <guid>http://localhost:1313/posts/2025-02_liberdade_expressao_hipocrisia_pt01/</guid>
       <description>&lt;p&gt;jeff bezos em um anúncio no x : &lt;a href=&#34;https://x.com/JeffBezos/status/1894757287052362088&#34;&gt;https://x.com/JeffBezos/status/1894757287052362088&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;destaques são meus&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I shared this note with the Washington Post team this morning:&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I’m writing to let you know about a change coming to our opinion pages.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;We are going to be writing every day in support and defense of two pillars: personal liberties and free markets. We’ll cover other topics too of course, but viewpoints opposing those pillars will be left to be published by others.&lt;/p&gt;</description>
     </item>
   </channel>

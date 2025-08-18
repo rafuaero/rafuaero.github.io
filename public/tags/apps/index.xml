@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apps on costacurta.me</title>
-    <link>https://rafuaero.github.io/tags/apps/</link>
+    <link>http://localhost:1313/tags/apps/</link>
     <description>Recent content in Apps on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Wed, 20 Nov 2024 15:38:52 -0300</lastBuildDate>
-    <atom:link href="https://rafuaero.github.io/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apps que eu uso no Linux</title>
-      <link>https://rafuaero.github.io/posts/linux_apps/</link>
+      <link>http://localhost:1313/posts/linux_apps/</link>
       <pubDate>Wed, 20 Nov 2024 15:38:52 -0300</pubDate>
-      <guid>https://rafuaero.github.io/posts/linux_apps/</guid>
+      <guid>http://localhost:1313/posts/linux_apps/</guid>
       <description>&lt;p&gt;Ainda pretendo escrever um post falando de porque comecei a usar linux, mas, por agora, vamos ao meu setup atual:&lt;/p&gt;&#xA;&lt;p&gt;Estou usando o &lt;a href=&#34;https://fedoraproject.org/workstation/&#34;&gt;Fedora&lt;/a&gt;, com que estou muito satisfeito. Bastante estável e funciona bem com meu hardware atual. Por enquanto estou conseguindo fugir do mal do &lt;a href=&#34;https://www.google.com/search?q=distro+hopping&#34;&gt;distro hopping&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;No ambiente gráfico comecei com o &lt;a href=&#34;https://kde.org/pt-br/&#34;&gt;KDE&lt;/a&gt;, mas depois mudei pro &lt;a href=&#34;https://www.gnome.org/&#34;&gt;gnome&lt;/a&gt;. Agora estou variando entre os dois. Dependendo do meu humor no dia, tem coisas que gosto mais em um e coisas que gosto mais no outro.. Instalei o &lt;a href=&#34;https://swaywm.org/&#34;&gt;Sway&lt;/a&gt; porque queria conhecer a experiência de uma &lt;a href=&#34;https://www.youtube.com/watch?v=xWIDvnNFl5I&#34;&gt;tilling window&lt;/a&gt;, mas logo percebi que esse tipo de desktop exige muita configuração e &lt;a href=&#34;https://www.google.com/search?q=linux+ricing&#34;&gt;ricing&lt;/a&gt; para o negócio ficar bom, sem tempo para isso agora, talvez vá levando como projeto paralelo. o KDE e Gnome funcionam muito bem &amp;ldquo;out of the box&amp;rdquo;.&lt;/p&gt;</description>
     </item>
   </channel>
