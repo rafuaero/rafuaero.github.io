@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diario on costacurta.me</title>
-    <link>http://localhost:1313/tags/diario/</link>
+    <link>http://costacurta.me/tags/diario/</link>
     <description>Recent content in Diario on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Fri, 03 Jan 2025 08:41:23 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/diario/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://costacurta.me/tags/diario/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cpp</title>
-      <link>http://localhost:1313/outros/2025-01_cpp/</link>
+      <link>http://costacurta.me/outros/2025-01_cpp/</link>
       <pubDate>Fri, 03 Jan 2025 08:41:23 -0300</pubDate>
-      <guid>http://localhost:1313/outros/2025-01_cpp/</guid>
+      <guid>http://costacurta.me/outros/2025-01_cpp/</guid>
       <description>&lt;h2 id=&#34;c&#34;&gt;c++&lt;/h2&gt;&#xA;&lt;p&gt;como se já tivesse mais nada para fazer da vida, como se já não estivesse estudando SQL e python, resolvi começar a estudar c++.&lt;/p&gt;&#xA;&lt;p&gt;acho que está faltando problema na minha vida.&lt;/p&gt;&#xA;&lt;p&gt;não vou fazer grandes investimentos agora, vou ler o site &lt;a href=&#34;https://www.learncpp.com/&#34;&gt;learn cpp&lt;/a&gt; de cabo a rabo e depois eu vejo o que vai acontecer.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;obs: assim como foi com SQL, o mais difícil de começar com o c++ é configurar o ambiente adequado para estudos, escolher um ide, configurar debugger, compilador, etc&amp;hellip; ainda estou bem perdido.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>

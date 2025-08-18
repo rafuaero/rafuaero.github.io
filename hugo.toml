@@ -1,4 +1,4 @@
-baseURL = 'https://rafuaero.github.io/'
+baseURL = 'http://costacurta.me/'
 languageCode = 'pt-BR'
 title = 'costacurta.me'
 theme = 'archie'
