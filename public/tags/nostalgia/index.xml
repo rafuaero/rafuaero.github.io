@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nostalgia on costacurta.me</title>
-    <link>http://costacurta.me/tags/nostalgia/</link>
+    <link>http://localhost:1313/tags/nostalgia/</link>
     <description>Recent content in Nostalgia on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 22 Feb 2025 08:44:18 -0300</lastBuildDate>
-    <atom:link href="http://costacurta.me/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/nostalgia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>resquícios da internet medieval</title>
-      <link>http://costacurta.me/posts/2025-02_internet_medieval/</link>
+      <link>http://localhost:1313/posts/2025-02_internet_medieval/</link>
       <pubDate>Sat, 22 Feb 2025 08:44:18 -0300</pubDate>
-      <guid>http://costacurta.me/posts/2025-02_internet_medieval/</guid>
+      <guid>http://localhost:1313/posts/2025-02_internet_medieval/</guid>
       <description>&lt;p&gt;navegando pelos rincões da internet, não lembro mais onde #desculpaqualquercoisa, vi a indicação do &lt;a href=&#34;https://beej.us/guide/bggit/&#34;&gt;&amp;ldquo;Beej&amp;rsquo;s Guide to Git&amp;rdquo;&lt;/a&gt;, como sou um neófito na arte do controle de versão e git e minha solução para resolver um conflito de commit geralmente é apagar o repositório local e clonar a última versão no github me interessei pelo guia. um dia lerei o, juro. já salvei o link par ao guia em todos os diversos lugares que uso para salvar links e que idealmente deveria ser um local só mas não é pq o mundo do software é um lugar de muitas escolhas e possibilidades. divago, voltando ao assunto principal.&lt;/p&gt;</description>
     </item>
     <item>
       <title>nokia design archive</title>
-      <link>http://costacurta.me/outros/2025-01_nokia_design_archive/</link>
+      <link>http://localhost:1313/outros/2025-01_nokia_design_archive/</link>
       <pubDate>Thu, 16 Jan 2025 09:08:26 -0300</pubDate>
-      <guid>http://costacurta.me/outros/2025-01_nokia_design_archive/</guid>
+      <guid>http://localhost:1313/outros/2025-01_nokia_design_archive/</guid>
       <description>&lt;h2 id=&#34;nokia-design-archives&#34;&gt;Nokia design archives&lt;/h2&gt;&#xA;&lt;p&gt;vi no &lt;a href=&#34;https://manualdousuario.net/nokia-design-archive/&#34;&gt;manual do usúario&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nokiadesignarchive.aalto.fi/index.html&#34;&gt;nokia design archive&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;site com muita informação sobre os processos de design dentro da nokia, desde a criação de conceitos, prototipagem e lançamento de aparelhos.&lt;/p&gt;&#xA;&lt;p&gt;sempre fui muito fã dos celulares da nokia. nunca vou esquecer do meu &lt;a href=&#34;https://www.gsmarena.com/nokia_6600-454.php&#34;&gt;6600&lt;/a&gt; o primeiro celular que eu tive com câmera embutida, e um &lt;a href=&#34;https://pt.wikipedia.org/wiki/Symbian&#34;&gt;sistema operacional&lt;/a&gt; que o tornava um proto smartphone alguns anos antes do iphone, mais ou menos à mesma época que o blackberry estava dominando o &lt;em&gt;&amp;ldquo;mundo corporativo&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

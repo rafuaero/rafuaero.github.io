@@ -2,248 +2,248 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on costacurta.me</title>
-    <link>http://costacurta.me/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sat, 01 Mar 2025 10:35:12 -0300</lastBuildDate>
-    <atom:link href="http://costacurta.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jeff Bezos</title>
-      <link>http://costacurta.me/tags/jeff-bezos/</link>
+      <link>http://localhost:1313/tags/jeff-bezos/</link>
       <pubDate>Sat, 01 Mar 2025 10:35:12 -0300</pubDate>
-      <guid>http://costacurta.me/tags/jeff-bezos/</guid>
+      <guid>http://localhost:1313/tags/jeff-bezos/</guid>
       <description></description>
     </item>
     <item>
       <title>Jornalismo</title>
-      <link>http://costacurta.me/tags/jornalismo/</link>
+      <link>http://localhost:1313/tags/jornalismo/</link>
       <pubDate>Sat, 01 Mar 2025 10:35:12 -0300</pubDate>
-      <guid>http://costacurta.me/tags/jornalismo/</guid>
+      <guid>http://localhost:1313/tags/jornalismo/</guid>
       <description></description>
     </item>
     <item>
       <title>Liberdade Expressao</title>
-      <link>http://costacurta.me/tags/liberdade-expressao/</link>
+      <link>http://localhost:1313/tags/liberdade-expressao/</link>
       <pubDate>Sat, 01 Mar 2025 10:35:12 -0300</pubDate>
-      <guid>http://costacurta.me/tags/liberdade-expressao/</guid>
+      <guid>http://localhost:1313/tags/liberdade-expressao/</guid>
       <description></description>
     </item>
     <item>
       <title>Whashington Post</title>
-      <link>http://costacurta.me/tags/whashington-post/</link>
+      <link>http://localhost:1313/tags/whashington-post/</link>
       <pubDate>Sat, 01 Mar 2025 10:35:12 -0300</pubDate>
-      <guid>http://costacurta.me/tags/whashington-post/</guid>
+      <guid>http://localhost:1313/tags/whashington-post/</guid>
       <description></description>
     </item>
     <item>
       <title>Internet</title>
-      <link>http://costacurta.me/tags/internet/</link>
+      <link>http://localhost:1313/tags/internet/</link>
       <pubDate>Sat, 22 Feb 2025 08:44:18 -0300</pubDate>
-      <guid>http://costacurta.me/tags/internet/</guid>
+      <guid>http://localhost:1313/tags/internet/</guid>
       <description></description>
     </item>
     <item>
       <title>Nostalgia</title>
-      <link>http://costacurta.me/tags/nostalgia/</link>
+      <link>http://localhost:1313/tags/nostalgia/</link>
       <pubDate>Sat, 22 Feb 2025 08:44:18 -0300</pubDate>
-      <guid>http://costacurta.me/tags/nostalgia/</guid>
+      <guid>http://localhost:1313/tags/nostalgia/</guid>
       <description></description>
     </item>
     <item>
       <title>Dicas</title>
-      <link>http://costacurta.me/tags/dicas/</link>
+      <link>http://localhost:1313/tags/dicas/</link>
       <pubDate>Tue, 18 Feb 2025 09:49:08 -0300</pubDate>
-      <guid>http://costacurta.me/tags/dicas/</guid>
+      <guid>http://localhost:1313/tags/dicas/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://costacurta.me/tags/linux/</link>
+      <link>http://localhost:1313/tags/linux/</link>
       <pubDate>Tue, 18 Feb 2025 09:49:08 -0300</pubDate>
-      <guid>http://costacurta.me/tags/linux/</guid>
+      <guid>http://localhost:1313/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Macos</title>
-      <link>http://costacurta.me/tags/macos/</link>
+      <link>http://localhost:1313/tags/macos/</link>
       <pubDate>Tue, 18 Feb 2025 09:49:08 -0300</pubDate>
-      <guid>http://costacurta.me/tags/macos/</guid>
+      <guid>http://localhost:1313/tags/macos/</guid>
       <description></description>
     </item>
     <item>
       <title>Eua</title>
-      <link>http://costacurta.me/tags/eua/</link>
+      <link>http://localhost:1313/tags/eua/</link>
       <pubDate>Sat, 08 Feb 2025 08:40:14 -0300</pubDate>
-      <guid>http://costacurta.me/tags/eua/</guid>
+      <guid>http://localhost:1313/tags/eua/</guid>
       <description></description>
     </item>
     <item>
       <title>Meta</title>
-      <link>http://costacurta.me/tags/meta/</link>
+      <link>http://localhost:1313/tags/meta/</link>
       <pubDate>Sat, 08 Feb 2025 08:40:14 -0300</pubDate>
-      <guid>http://costacurta.me/tags/meta/</guid>
+      <guid>http://localhost:1313/tags/meta/</guid>
       <description></description>
     </item>
     <item>
       <title>Politica</title>
-      <link>http://costacurta.me/tags/politica/</link>
+      <link>http://localhost:1313/tags/politica/</link>
       <pubDate>Sat, 08 Feb 2025 08:40:14 -0300</pubDate>
-      <guid>http://costacurta.me/tags/politica/</guid>
+      <guid>http://localhost:1313/tags/politica/</guid>
       <description></description>
     </item>
     <item>
       <title>Redes Sociais</title>
-      <link>http://costacurta.me/tags/redes-sociais/</link>
+      <link>http://localhost:1313/tags/redes-sociais/</link>
       <pubDate>Sat, 08 Feb 2025 08:40:14 -0300</pubDate>
-      <guid>http://costacurta.me/tags/redes-sociais/</guid>
+      <guid>http://localhost:1313/tags/redes-sociais/</guid>
       <description></description>
     </item>
     <item>
       <title>Design</title>
-      <link>http://costacurta.me/tags/design/</link>
+      <link>http://localhost:1313/tags/design/</link>
       <pubDate>Thu, 16 Jan 2025 09:08:26 -0300</pubDate>
-      <guid>http://costacurta.me/tags/design/</guid>
+      <guid>http://localhost:1313/tags/design/</guid>
       <description></description>
     </item>
     <item>
       <title>Nokia</title>
-      <link>http://costacurta.me/tags/nokia/</link>
+      <link>http://localhost:1313/tags/nokia/</link>
       <pubDate>Thu, 16 Jan 2025 09:08:26 -0300</pubDate>
-      <guid>http://costacurta.me/tags/nokia/</guid>
+      <guid>http://localhost:1313/tags/nokia/</guid>
       <description></description>
     </item>
     <item>
       <title>Cpp</title>
-      <link>http://costacurta.me/tags/cpp/</link>
+      <link>http://localhost:1313/tags/cpp/</link>
       <pubDate>Fri, 03 Jan 2025 08:41:23 -0300</pubDate>
-      <guid>http://costacurta.me/tags/cpp/</guid>
+      <guid>http://localhost:1313/tags/cpp/</guid>
       <description></description>
     </item>
     <item>
       <title>Diario</title>
-      <link>http://costacurta.me/tags/diario/</link>
+      <link>http://localhost:1313/tags/diario/</link>
       <pubDate>Fri, 03 Jan 2025 08:41:23 -0300</pubDate>
-      <guid>http://costacurta.me/tags/diario/</guid>
+      <guid>http://localhost:1313/tags/diario/</guid>
       <description></description>
     </item>
     <item>
       <title>App</title>
-      <link>http://costacurta.me/tags/app/</link>
+      <link>http://localhost:1313/tags/app/</link>
       <pubDate>Sat, 28 Dec 2024 10:21:54 -0300</pubDate>
-      <guid>http://costacurta.me/tags/app/</guid>
+      <guid>http://localhost:1313/tags/app/</guid>
       <description></description>
     </item>
     <item>
       <title>Utilitarios</title>
-      <link>http://costacurta.me/tags/utilitarios/</link>
+      <link>http://localhost:1313/tags/utilitarios/</link>
       <pubDate>Sat, 28 Dec 2024 10:21:54 -0300</pubDate>
-      <guid>http://costacurta.me/tags/utilitarios/</guid>
+      <guid>http://localhost:1313/tags/utilitarios/</guid>
       <description></description>
     </item>
     <item>
       <title>Emacs</title>
-      <link>http://costacurta.me/tags/emacs/</link>
+      <link>http://localhost:1313/tags/emacs/</link>
       <pubDate>Mon, 23 Dec 2024 08:54:17 -0300</pubDate>
-      <guid>http://costacurta.me/tags/emacs/</guid>
+      <guid>http://localhost:1313/tags/emacs/</guid>
       <description></description>
     </item>
     <item>
       <title>Org-Mode</title>
-      <link>http://costacurta.me/tags/org-mode/</link>
+      <link>http://localhost:1313/tags/org-mode/</link>
       <pubDate>Mon, 23 Dec 2024 08:54:17 -0300</pubDate>
-      <guid>http://costacurta.me/tags/org-mode/</guid>
+      <guid>http://localhost:1313/tags/org-mode/</guid>
       <description></description>
     </item>
     <item>
       <title>Produtividade</title>
-      <link>http://costacurta.me/tags/produtividade/</link>
+      <link>http://localhost:1313/tags/produtividade/</link>
       <pubDate>Mon, 23 Dec 2024 08:54:17 -0300</pubDate>
-      <guid>http://costacurta.me/tags/produtividade/</guid>
+      <guid>http://localhost:1313/tags/produtividade/</guid>
       <description></description>
     </item>
     <item>
       <title>Hyprland</title>
-      <link>http://costacurta.me/tags/hyprland/</link>
+      <link>http://localhost:1313/tags/hyprland/</link>
       <pubDate>Wed, 04 Dec 2024 08:53:03 -0300</pubDate>
-      <guid>http://costacurta.me/tags/hyprland/</guid>
+      <guid>http://localhost:1313/tags/hyprland/</guid>
       <description></description>
     </item>
     <item>
       <title>Qtile</title>
-      <link>http://costacurta.me/tags/qtile/</link>
+      <link>http://localhost:1313/tags/qtile/</link>
       <pubDate>Wed, 04 Dec 2024 08:53:03 -0300</pubDate>
-      <guid>http://costacurta.me/tags/qtile/</guid>
+      <guid>http://localhost:1313/tags/qtile/</guid>
       <description></description>
     </item>
     <item>
       <title>Sway</title>
-      <link>http://costacurta.me/tags/sway/</link>
+      <link>http://localhost:1313/tags/sway/</link>
       <pubDate>Wed, 04 Dec 2024 08:53:03 -0300</pubDate>
-      <guid>http://costacurta.me/tags/sway/</guid>
+      <guid>http://localhost:1313/tags/sway/</guid>
       <description></description>
     </item>
     <item>
       <title>Tiling</title>
-      <link>http://costacurta.me/tags/tiling/</link>
+      <link>http://localhost:1313/tags/tiling/</link>
       <pubDate>Wed, 04 Dec 2024 08:53:03 -0300</pubDate>
-      <guid>http://costacurta.me/tags/tiling/</guid>
+      <guid>http://localhost:1313/tags/tiling/</guid>
       <description></description>
     </item>
     <item>
       <title>Apple</title>
-      <link>http://costacurta.me/tags/apple/</link>
+      <link>http://localhost:1313/tags/apple/</link>
       <pubDate>Mon, 02 Dec 2024 09:56:55 -0300</pubDate>
-      <guid>http://costacurta.me/tags/apple/</guid>
+      <guid>http://localhost:1313/tags/apple/</guid>
       <description></description>
     </item>
     <item>
       <title>Dell</title>
-      <link>http://costacurta.me/tags/dell/</link>
+      <link>http://localhost:1313/tags/dell/</link>
       <pubDate>Mon, 02 Dec 2024 09:56:55 -0300</pubDate>
-      <guid>http://costacurta.me/tags/dell/</guid>
+      <guid>http://localhost:1313/tags/dell/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>http://costacurta.me/tags/windows/</link>
+      <link>http://localhost:1313/tags/windows/</link>
       <pubDate>Mon, 02 Dec 2024 09:56:55 -0300</pubDate>
-      <guid>http://costacurta.me/tags/windows/</guid>
+      <guid>http://localhost:1313/tags/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>Sql</title>
-      <link>http://costacurta.me/tags/sql/</link>
+      <link>http://localhost:1313/tags/sql/</link>
       <pubDate>Sun, 24 Nov 2024 10:27:29 -0300</pubDate>
-      <guid>http://costacurta.me/tags/sql/</guid>
+      <guid>http://localhost:1313/tags/sql/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>http://costacurta.me/tags/blog/</link>
+      <link>http://localhost:1313/tags/blog/</link>
       <pubDate>Wed, 20 Nov 2024 15:57:56 -0300</pubDate>
-      <guid>http://costacurta.me/tags/blog/</guid>
+      <guid>http://localhost:1313/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://costacurta.me/tags/hugo/</link>
+      <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Wed, 20 Nov 2024 15:57:56 -0300</pubDate>
-      <guid>http://costacurta.me/tags/hugo/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Listas</title>
-      <link>http://costacurta.me/tags/listas/</link>
+      <link>http://localhost:1313/tags/listas/</link>
       <pubDate>Wed, 20 Nov 2024 15:57:56 -0300</pubDate>
-      <guid>http://costacurta.me/tags/listas/</guid>
+      <guid>http://localhost:1313/tags/listas/</guid>
       <description></description>
     </item>
     <item>
       <title>Apps</title>
-      <link>http://costacurta.me/tags/apps/</link>
+      <link>http://localhost:1313/tags/apps/</link>
       <pubDate>Wed, 20 Nov 2024 15:38:52 -0300</pubDate>
-      <guid>http://costacurta.me/tags/apps/</guid>
+      <guid>http://localhost:1313/tags/apps/</guid>
       <description></description>
     </item>
   </channel>

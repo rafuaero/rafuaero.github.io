@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html><head lang="en">
+<html><head lang="en"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Tech nerd: permissões SQL - costacurta.me</title><meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Permissões SQL Postgres
@@ -11,7 +11,7 @@ conseguir copiar qualquer arquivo para o banco de dados
 
 O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões." />
 	<meta property="og:image" content=""/>
-	<meta property="og:url" content="https://rafuaero.github.io/outros/tech/2024-11-24_permisoes_sql/">
+	<meta property="og:url" content="http://localhost:1313/outros/tech/2024-11-24_permisoes_sql/">
   <meta property="og:site_name" content="costacurta.me">
   <meta property="og:title" content="Tech nerd: permissões SQL">
   <meta property="og:description" content="Permissões SQL Postgres Passando aqui para deixar registrado uma dica rápida.
@@ -31,35 +31,24 @@ acessar o banco de dados em primeiro lugar, usando o pgadmin conseguir copiar qu
 Uma das coisas que estava me desanimando a aprender POSTGRESQL era a dificuldade com:
 acessar o banco de dados em primeiro lugar, usando o pgadmin conseguir copiar qualquer arquivo para o banco de dados O Linux usa um sistema de permissões bem amarrado e, como o postgres usa um usuário diferente do meu usuário por padrão, estava bem chato de entender toda essa relação de usuários e permissões.">
 
-	
-        <link href="https://rafuaero.github.io/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
-	
-
-	
-	<link rel="stylesheet" type="text/css" media="screen" href="https://rafuaero.github.io/css/main.5cebd7d4fb2b97856af8d32a6def16164fcf7d844e98e236fcb3559655020373.css" />
-
-	
+        <link href="http://localhost:1313/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
 	
 
 	
-	
-
-	
+	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/css/main.6a0f23ea50fd34b46fee262a5a68e17d458c51a2bc99ba1ba018065de6b180c3.css" />
 </head>
 <body>
         <div class="content"><header>
 	<div class="main">
-		<a href="https://rafuaero.github.io/">costacurta.me</a>
+		<a href="http://localhost:1313/">costacurta.me</a>
 	</div>
 	<nav>
-		
-		<a href="/">Home</a>
 		
 		<a href="/posts">posts</a>
 		
 		<a href="/outros">outros</a>
 		
-		<a href="/tags">Tags</a>
+		<a href="/tags">tags</a>
 		
 		<a href="/about">sobre</a>
 		
@@ -68,17 +57,17 @@ acessar o banco de dados em primeiro lugar, usando o pgadmin conseguir copiar qu
 </header>
 
 <main>
-	<article>
-		<div class="title">
-			<h1 class="title">Tech nerd: permissões SQL</h1>
-			<div class="meta">Posted on Nov 24, 2024</div>
-		</div>
-		
-
-		
-
-		<section class="body">
-			<h2 id="permissões-sql-postgres">Permissões SQL Postgres</h2>
+  <article>
+    <div class="post-container">
+      
+      <div class="post-content">
+        <div class="title">
+          <h1 class="title">Tech nerd: permissões SQL</h1>
+          <div class="meta">Posted on Nov 24, 2024</div>
+        </div>
+        
+        <section class="body">
+          <h2 id="permissões-sql-postgres">Permissões SQL Postgres</h2>
 <p>Passando aqui para deixar registrado uma dica rápida.</p>
 <p>Uma das coisas que estava me desanimando a aprender <a href="https://www.postgresql.org/">POSTGRESQL</a> era a dificuldade com:</p>
 <ol>
@@ -90,48 +79,38 @@ acessar o banco de dados em primeiro lugar, usando o pgadmin conseguir copiar qu
 <p>a situação 2. eu protelei mais para resolver e fui me virando salvando os arquivos na pasta /var/lib/pgsql/ que claramente não era o ideal.</p>
 <p>Tentei usar a pasta /tmp para esse fim, mas recebia um erro toda hora de um serviço chamado <a href="https://www.redhat.com/pt-br/topics/linux/what-is-selinux">SElinux</a>. Hoje, resolvi tentar novamente e achei em algum lugar que sugeria simplesmente desabilitar esse serviço SElinux, que eu nem sabia que era um serviço opcional. Enfim, desabilitei editando o arquivo de config que estava /etc/selinux/config e agora as coisas parecem mais suaves. O primeiro teste eu ainda fiz com um arquivo criado pelo usuário postgres, no próximo vou tentar com meu usuário padrão, vamos ver se vai.</p>
 
-		</section>
+        </section>
+        <div class="post-tags">
+          
+          
+          <nav class="nav tags">
+            <ul class="tags">
+              
+              <li><a href="/tags/sql">sql</a></li>
+              
+              <li><a href="/tags/linux">linux</a></li>
+              
+            </ul>
+          </nav>
+          
+          
+        </div>
+      </div>
 
-		<div class="post-tags">
-			
-			
-			<nav class="nav tags">
-				<ul class="tags">
-					
-					<li><a href="/tags/sql">sql</a></li>
-					
-					<li><a href="/tags/linux">linux</a></li>
-					
-				</ul>
-			</nav>
-			
-			
-		</div>
-		</article>
+      
+      
+    </div>
+
+    </article>
 </main>
 <footer>
   <div style="display:flex"></div>
   <div class="footer-info">
-    2024  <a
+    2025  <a
       href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
   </div>
 </footer>
 
-
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-287QNEHVGP"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-287QNEHVGP');
-        }
-      </script>
 </div>
     </body>
 </html>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on costacurta.me</title>
-    <link>http://costacurta.me/tags/blog/</link>
+    <link>http://localhost:1313/tags/blog/</link>
     <description>Recent content in Blog on costacurta.me</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
     <lastBuildDate>Wed, 20 Nov 2024 15:57:56 -0300</lastBuildDate>
-    <atom:link href="http://costacurta.me/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Listas - Blogroll</title>
-      <link>http://costacurta.me/outros/blogroll/</link>
+      <link>http://localhost:1313/outros/blogroll/</link>
       <pubDate>Wed, 20 Nov 2024 15:57:56 -0300</pubDate>
-      <guid>http://costacurta.me/outros/blogroll/</guid>
+      <guid>http://localhost:1313/outros/blogroll/</guid>
       <description>&lt;h1 id=&#34;tech-cultura-sociedade&#34;&gt;Tech, cultura, sociedade&lt;/h1&gt;&#xA;&lt;h2 id=&#34;manual-do-mundo&#34;&gt;Manual do mundo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://manualdousuario.net&#34;&gt;https://manualdousuario.net&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;gosto muito, sempre com conteúdo relevante, engajado e crítico. Uma inspiração.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;daring-fireball&#34;&gt;Daring Fireball&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://daringfireball.net/&#34;&gt;https://daringfireball.net/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;para quem curte o mundo Apple e cultura pop em geral, alguma coisa de política estadunidense. Mas principalmente Apple. um dos principais blogueiros do assundo.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;kottke&#34;&gt;Kottke&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kottke.org/&#34;&gt;https://kottke.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;home of fine hypertext products&amp;rdquo;, assim ele se define.&#xA;montanhas de links legais sobre cultura, tech, política, arte, etc&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;spyglass&#34;&gt;Spyglass&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://spyglass.org/&#34;&gt;https://spyglass.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Insight from afar by M.G. Siegler&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>

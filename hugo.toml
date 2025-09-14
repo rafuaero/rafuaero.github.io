@@ -1,4 +1,4 @@
-baseURL = 'http://costacurta.me/'
+baseURL = 'https://costacurta.me/'
 languageCode = 'pt-BR'
 title = 'costacurta.me'
 theme = 'archie'
@@ -12,12 +12,12 @@ theme = 'archie'
   url = "/posts"
   weight = 1 
 
-[[menu.main]]
+  [[menu.main]]
   name = "outros"
   url = "/outros"
   weight = 2
 
-[[menu.main]]
+  [[menu.main]]
   name = "tags"
   url = "/tags"
   weight = 3
@@ -33,7 +33,7 @@ theme = 'archie'
 
 
 # essa config é para merge as configurações aqui e do tema
-  _merge = 'shallow'
+# _merge = 'shallow'
 
 [module]
   [module.hugoVersion]
